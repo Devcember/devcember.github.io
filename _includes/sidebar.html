@@ -36,9 +36,13 @@
         {% endif %}
       {% endfor %}
       </ol>
-      <a class="sidebar-nav-item" href="http://twitter.com/devcember">@devcember</a>
+
+       <a class="sidebar-nav-item{% if page.url == '/celebrants/' %} active{% endif %}" href="/celebrants">Celebrants</a>
     </nav>
 
-    <p style="font-size: 60%; text-align:center">-=- built by <a href="http://bigbluehat.com/#" rel="author">BigBlueHat</a> -=-</p>
+    <p style="font-size: 60%; text-align:center">
+      <a href="http://twitter.com/devcember">@devcember</a>
+      -=- built by <a href="http://bigbluehat.com/#" rel="author">BigBlueHat</a>
+    </p>
   </div>
 </div>
