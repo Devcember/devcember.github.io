@@ -6,7 +6,7 @@ title: Devcember Begins!
 It's a holiday month. What better to do during it than code up all that
 great stuff you've been meaning to give away!
 
-[Devcember is about giving.](about)
+[Devcember is about giving.](/about)
 
 ## Today
 
