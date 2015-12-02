@@ -14,7 +14,7 @@ great stuff you've been meaning to give away!
 2. Setup a content space
    * a repo, a blog, etc.
 3. Explain what you're giving away in an inital post
-4. Ping [@devcember](http://twitter.com/devcember) & use the #devcember hashtag
+4. Ping [@devcember](http://twitter.com/devcember) & use the `#devcember` hashtag
 
 ## The rest of the month
 
