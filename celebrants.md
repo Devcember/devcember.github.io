@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Devcember Celebrant Sites
+title: Celebrants
 ---
 
 These are the folks who've commited to commit content to celebrate Devcember
