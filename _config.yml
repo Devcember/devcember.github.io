@@ -12,7 +12,7 @@ relative_permalinks: true
 # Setup
 title:            Dev<br />cember
 tagline:          'Make something. Give it away.'
-description:      'Devcember is giving.<br />Make something.<br />Give it away.'
+description:      'Make something.<br />Give it away.<br />Celebrate.'
 url:              http://devcember.com
 baseurl:          /
 
