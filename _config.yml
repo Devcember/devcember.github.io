@@ -1,18 +1,15 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 gems:
   - jemoji
   - jekyll-archives
-
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
+  - jekyll-paginate
 
 # Setup
-title:            Dev<br />cember
-tagline:          'Make something. Give it away.'
-description:      'Make something.<br />Give it away.<br />Celebrate.'
+title:            Devcember
+tagline:          'a gaudy celebration of web specification'
+description:      'a gaudy celebration of web specification'
 url:              http://devcember.com
 baseurl:          /
 
