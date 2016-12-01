@@ -9,7 +9,7 @@ Web specifications!
 To join the celbration, simply do the following:
  - pick a spec, any spec (could even be yours!)
  - add your name, project, and spec links to the
- [celebrants.json file](https://github.com/Devcember/devcember.github.io/edit/master/_data/celebrants.yml)
+ [celebrants.json file](https://github.com/Devcember/devcember.github.io/edit/master/_data/celebrants.json)
  - tweet us at [@devcember](https://twitter.com/devcember)
 
 Interested in offering your awesomeness to others? Use our

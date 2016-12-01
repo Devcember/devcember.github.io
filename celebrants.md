@@ -4,7 +4,7 @@ title: Celebrants
 ---
 
 These are the folks who've commited to commit content to celebrate Devcember
-this year! If you'd like to join them, [edit this file](https://github.com/Devcember/devcember.github.io/edit/master/_data/celebrants.yml). We'll do the rest.
+this year! If you'd like to join them, [edit this file](https://github.com/Devcember/devcember.github.io/edit/master/_data/celebrants.json). We'll do the rest.
 
 {% for celebrant in site.data.celebrants %}
 <h4>
