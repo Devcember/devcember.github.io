@@ -34,7 +34,7 @@ github:
 # Dependencies
 markdown:         kramdown
 highlighter:      pygments
-gems:
+plugins:
   - jemoji
   - jekyll-archives
   - jekyll-paginate
