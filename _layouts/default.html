@@ -5,12 +5,15 @@
 
   <body>
 
-    {% include sidebar.html %}
-    <div class="ui pusher">
-      <div class="ui basic segment">
-        {{ content }}
+    <div class="full height">
+      <div class="toc">
+        {% include sidebar.html %}
+      </div>
+      <div class="article">
+        <div class="ui basic segment">
+          {{ content }}
+        </div>
       </div>
     </div>
-
   </body>
 </html>
