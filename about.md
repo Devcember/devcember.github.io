@@ -7,7 +7,7 @@ title: About
 Devcember is about giving.
 </p>
 
-During the month of December, [celebrants](/celebrants) do the following:
+During the month of December, [Celebrants](/celebrants) do the following:
 
  - **develop**: code, content, community, art
  - **give it away**: creative commons, open source, etc.
@@ -15,7 +15,11 @@ During the month of December, [celebrants](/celebrants) do the following:
 Report on your progress throughout the month so others can follow along:
  - Blog about it.
  - Create a repo.
- - Use #devcember on social media.
+ - Use `#devcember` on social media.
 
 Our goal is to chronicle the giving greatness we'll do together in these
 31 short days.
+
+Join other Celebrants in the [#devcember](http://webchat.freenode.net/?channels=%23devcember&uio=MT1mYWxzZSYxNj10cnVlJjI9dHJ1ZSY0PXRydWUmOT10cnVlJjExPTExMw8d) IRC channel hosted by [Freenode.net](http://freenode.net/).
+
+**Pro Tip:** you can sign-up for [IRC Cloud](http://irccloud.com/) for extra awesome.
