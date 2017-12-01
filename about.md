@@ -7,13 +7,15 @@ title: About
 Devcember is about giving.
 </p>
 
-During the month of Devcember (formerly December), celebrants do the following:
+During the month of December, [celebrants](/celebrants) do the following:
 
  - **develop**: code, content, community, art
  - **give it away**: creative commons, open source, etc.
 
-Ideally, you report your progress throughout the month somewhere others can
-follow along--a blog, a repo, the `#devcember` hash tag somewhere or other.
+Report on your progress throughout the month so others can follow along:
+ - Blog about it.
+ - Create a repo.
+ - Use #devcember on social media.
 
-The goal is a chronicle of the giving greatness we've done together for these
-31 days.
+Our goal is to chronicle the giving greatness we'll do together in these
+31 short days.
