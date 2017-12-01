@@ -5,16 +5,15 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
+  <div class="ui vertical segment">
+    <h1>
+      <a class="ui green header" href="{{ post.url }}">
         {{ post.title }}
+        <span class="sub header">{{ post.date | date_to_string }}</span>
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
+    {{ post.content | markdownify }}
   </div>
   {% endfor %}
 </div>
