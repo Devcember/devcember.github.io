@@ -9,8 +9,9 @@ Devcember is about giving.
 
 During the month of December, [Celebrants](/celebrants) do the following:
 
- - **develop**: code, content, community, art
- - **give it away**: creative commons, open source, etc.
+ - **pick a spec**: [usually Web related](/specs)
+ - **develop (for) it**: create code, content, community
+ - **give it away**: open source, creative commons, etc.
 
 Report on your progress throughout the month so others can follow along:
  - Blog about it.
