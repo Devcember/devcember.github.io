@@ -12,7 +12,7 @@ $ gem install jekyll bundler
 $ bundle install # the jekyll bits
 $ npm i # the semantic-ui bits
 $ npm run build # once. not needed again unless customizing semantic.css
-$ bundle exec jekyll serve --incremental # more optimal serve/watch
+$ npm run serve # which runs `bundle exec jekyll serve --incremental`
 ```
 # License
 
