@@ -2,9 +2,6 @@
 title: Code of Conduct
 ---
 
-We use this Code of Conduct across all
-[WileyLabs](https://github.com/WileyLabs) projects.
-
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
