@@ -33,7 +33,7 @@ github:
 
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 plugins:
   - jemoji
   - jekyll-archives
