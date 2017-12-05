@@ -25,5 +25,22 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Randall Leeds",
+    "homepage": "http://randall.bleeds.info/",
+    "github": "tilgovi",
+    "projects": [
+      {
+        "name": "Apache Annotator",
+        "repo": "http://github.com/apache/incubator-annotator",
+        "specs": [
+          {
+            "name": "Web Annotation Data Model",
+            "url": "http://www.w3.org/TR/annotation-model/"
+          }
+        ]
+      }
+    ]
   }
 ]
