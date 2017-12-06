@@ -11,16 +11,16 @@ fs.readdir(hacktivity_dir, (err, files) => {
     console.log('reading ', hacktivity_dir + file);
     let data = fs.readFileSync(hacktivity_dir + file);
     let events = JSON.parse(data);
-    events.forEach((ev) => {
-      let [year, month, day] = ev.created_at.split('-');
+    events.items.forEach((ev) => {
+      let [year, month, day] = ev.commit.author.date.split('-');
       day = Number(day.split('T')[0]);
-      if (year === '2017' && month === '12' && ev.type === 'PushEvent') {
+      if (year === '2017' && month === '12') {
         if (!(day in hacktivity)) hacktivity[day] = {};
-        if (!(ev.actor.login in hacktivity[day])) hacktivity[day][ev.actor.login] = {};
+        if (!(ev.author.login in hacktivity[day])) hacktivity[day][ev.author.login] = {};
         // TODO: keep a count of hacktivity and links to repos?
-        hacktivity[day][ev.actor.login] = {
-          login: ev.actor.login,
-          avatar_url: ev.actor.avatar_url
+        hacktivity[day][ev.author.login] = {
+          login: ev.author.login,
+          avatar_url: ev.author.avatar_url
         };
       }
     });
