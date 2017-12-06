@@ -2,25 +2,29 @@
   "1": {
     "BigBlueHat": {
       "login": "BigBlueHat",
-      "avatar_url": "https://avatars.githubusercontent.com/u/43209?"
+      "avatar_url": "https://avatars1.githubusercontent.com/u/43209?v=4"
+    },
+    "tilgovi": {
+      "login": "tilgovi",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/20818?v=4"
     }
   },
   "2": {
     "tilgovi": {
       "login": "tilgovi",
-      "avatar_url": "https://avatars.githubusercontent.com/u/20818?"
+      "avatar_url": "https://avatars3.githubusercontent.com/u/20818?v=4"
     }
   },
   "4": {
     "BigBlueHat": {
       "login": "BigBlueHat",
-      "avatar_url": "https://avatars.githubusercontent.com/u/43209?"
+      "avatar_url": "https://avatars1.githubusercontent.com/u/43209?v=4"
     }
   },
   "5": {
     "BigBlueHat": {
       "login": "BigBlueHat",
-      "avatar_url": "https://avatars.githubusercontent.com/u/43209?"
+      "avatar_url": "https://avatars1.githubusercontent.com/u/43209?v=4"
     }
   }
 }
