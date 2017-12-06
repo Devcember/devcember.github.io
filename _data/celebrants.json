@@ -46,5 +46,26 @@
         ]
       }
     ]
+  },
+  {
+    "name": "rhiaro",
+    "homepage": "https://rhiaro.co.uk",
+    "github": "rhiaro",
+    "projects": [
+      {
+        "name": "Sloph",
+        "repo": "http://github.com/rhiaro/sloph",
+        "specs": [
+          {
+            "name": "ActivityPub",
+            "url": "http://www.w3.org/TR/activitypub/"
+          },
+          {
+            "name": "Linked Data Notifications",
+            "url": "http://www.w3.org/TR/ldn/"
+          }
+        ]
+      }
+    ]
   }
 ]
