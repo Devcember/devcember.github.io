@@ -5,6 +5,10 @@
     "github": "BigBlueHat",
     "projects": [
       {
+        "name": "Devcember",
+        "repo": "http://github.com/devcember/devcember.github.io"
+      },
+      {
         "name": "Page Notes",
         "repo": "http://github.com/bigbluehat/page-notes",
         "specs": [
