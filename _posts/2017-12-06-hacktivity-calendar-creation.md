@@ -3,6 +3,7 @@ layout: post
 title: Hacktivity Calendar Creation
 ---
 
+To try and highlight some of the awesomeness happening this holiday season,
 I've built a lightweight hacktivity calendar thing that uses
 [Semantic-UI](http://semantic-ui.com/) cards and avatars to present who did
 something on what day. The data is currently pulled from
