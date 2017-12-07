@@ -22,3 +22,6 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
 end
+
+# Suggested by Jekyll to avoid polling for changes
+ gem 'wdm', '>= 0.1.0' if Gem.win_platform?
