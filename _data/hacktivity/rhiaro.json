@@ -136,7 +136,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/aleph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/aleph/deployments"
       },
-      "score": 16.610128
+      "score": 16.614553
     },
     {
       "url": "https://api.github.com/repos/alephdata/aleph/commits/0cdd27934be00b11514eb5c6bf11a91953a470cd",
@@ -272,7 +272,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/aleph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/aleph/deployments"
       },
-      "score": 16.610128
+      "score": 16.614553
     },
     {
       "url": "https://api.github.com/repos/rhiaro/ofthemoon/commits/2b4d1be435f7b3f134eb70e7319512be6f092c31",
@@ -408,7 +408,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/ofthemoon/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/ofthemoon/deployments"
       },
-      "score": 15.960872
+      "score": 15.966191
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/76e3d072fdfe1b70d4fff847fa1455a8d047adba",
@@ -544,7 +544,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 15.899706
+      "score": 15.90033
     },
     {
       "url": "https://api.github.com/repos/rhiaro/sloph/commits/28f9ccc39e8ba417597f20b5eb96184cb10cb657",
@@ -680,7 +680,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/sloph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/sloph/deployments"
       },
-      "score": 14.54356
+      "score": 14.542093
     }
   ]
 }
