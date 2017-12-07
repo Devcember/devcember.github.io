@@ -6,7 +6,11 @@
     "projects": [
       {
         "name": "Devcember",
-        "repo": "http://github.com/devcember/devcember.github.io"
+        "repo": "http://github.com/devcember/devcember.github.io",
+        "specs": [
+          "name": "RDFa Lite",
+          "url": "https://www.w3.org/TR/rdfa-lite/"
+        ]
       },
       {
         "name": "Page Notes",
