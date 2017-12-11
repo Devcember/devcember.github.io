@@ -136,7 +136,7 @@
         "releases_url": "https://api.github.com/repos/benoitc/gunicorn/releases{/id}",
         "deployments_url": "https://api.github.com/repos/benoitc/gunicorn/deployments"
       },
-      "score": 14.431261
+      "score": 14.430942
     },
     {
       "url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/commits/5e9399a247c44ab984263ac2d37d90243e968f36",
@@ -266,7 +266,7 @@
         "releases_url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/releases{/id}",
         "deployments_url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/deployments"
       },
-      "score": 13.851871
+      "score": 13.851462
     },
     {
       "url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/commits/1a0563d53fdae7e68dc7798b527be6ecb2bc1bef",
@@ -402,7 +402,7 @@
         "releases_url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/releases{/id}",
         "deployments_url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/deployments"
       },
-      "score": 13.851871
+      "score": 13.851462
     },
     {
       "url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/commits/6de2ce8a97cfccd093d6695f7c8d7c449f614ba7",
@@ -538,7 +538,7 @@
         "releases_url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/releases{/id}",
         "deployments_url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/deployments"
       },
-      "score": 13.851871
+      "score": 13.851462
     },
     {
       "url": "https://api.github.com/repos/apache/incubator-annotator/commits/172d990eecec7e8b4d1156e3190cf80b13d15e98",
