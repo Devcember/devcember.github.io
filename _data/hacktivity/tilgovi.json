@@ -136,7 +136,7 @@
         "releases_url": "https://api.github.com/repos/benoitc/gunicorn/releases{/id}",
         "deployments_url": "https://api.github.com/repos/benoitc/gunicorn/deployments"
       },
-      "score": 14.430952
+      "score": 14.431271
     },
     {
       "url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/commits/5e9399a247c44ab984263ac2d37d90243e968f36",
@@ -266,7 +266,7 @@
         "releases_url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/releases{/id}",
         "deployments_url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/deployments"
       },
-      "score": 13.851474
+      "score": 13.851882
     },
     {
       "url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/commits/1a0563d53fdae7e68dc7798b527be6ecb2bc1bef",
@@ -402,7 +402,7 @@
         "releases_url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/releases{/id}",
         "deployments_url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/deployments"
       },
-      "score": 13.851474
+      "score": 13.851882
     },
     {
       "url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/commits/6de2ce8a97cfccd093d6695f7c8d7c449f614ba7",
@@ -538,7 +538,7 @@
         "releases_url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/releases{/id}",
         "deployments_url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/deployments"
       },
-      "score": 13.851474
+      "score": 13.851882
     },
     {
       "url": "https://api.github.com/repos/apache/incubator-annotator/commits/172d990eecec7e8b4d1156e3190cf80b13d15e98",
@@ -674,7 +674,7 @@
         "releases_url": "https://api.github.com/repos/apache/incubator-annotator/releases{/id}",
         "deployments_url": "https://api.github.com/repos/apache/incubator-annotator/deployments"
       },
-      "score": 12.831156
+      "score": 12.831191
     },
     {
       "url": "https://api.github.com/repos/apache/incubator-annotator/commits/bf996dc9c59a0724bbd2ce3d8903138fd8119acd",
@@ -810,7 +810,7 @@
         "releases_url": "https://api.github.com/repos/apache/incubator-annotator/releases{/id}",
         "deployments_url": "https://api.github.com/repos/apache/incubator-annotator/deployments"
       },
-      "score": 12.831156
+      "score": 12.831191
     },
     {
       "url": "https://api.github.com/repos/apache/incubator-annotator/commits/b65e924cbaff9956649f8c9f4276a33135b733aa",
@@ -946,7 +946,7 @@
         "releases_url": "https://api.github.com/repos/apache/incubator-annotator/releases{/id}",
         "deployments_url": "https://api.github.com/repos/apache/incubator-annotator/deployments"
       },
-      "score": 12.831156
+      "score": 12.831191
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/a1f51b99c4bc085b3712f4b34d4eebeaef1410e8",
@@ -1218,7 +1218,7 @@
         "releases_url": "https://api.github.com/repos/eastbaydsa/handbook/releases{/id}",
         "deployments_url": "https://api.github.com/repos/eastbaydsa/handbook/deployments"
       },
-      "score": 12.141383
+      "score": 12.131678
     }
   ]
 }
