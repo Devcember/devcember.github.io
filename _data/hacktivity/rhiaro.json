@@ -136,7 +136,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/exactitude/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/exactitude/deployments"
       },
-      "score": 17.270145
+      "score": 17.271397
     },
     {
       "url": "https://api.github.com/repos/alephdata/exactitude/commits/c0f256ccc938be6de1e674536086f04cd7719142",
@@ -272,7 +272,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/exactitude/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/exactitude/deployments"
       },
-      "score": 17.270145
+      "score": 17.271397
     },
     {
       "url": "https://api.github.com/repos/alephdata/exactitude/commits/14055277c5cc967fdda26fe270884bd617f0a7dd",
@@ -408,7 +408,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/exactitude/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/exactitude/deployments"
       },
-      "score": 17.270145
+      "score": 17.271397
     },
     {
       "url": "https://api.github.com/repos/alephdata/exactitude/commits/1dd7f67de59026da8925c4534eedc7a7208a9270",
@@ -544,143 +544,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/exactitude/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/exactitude/deployments"
       },
-      "score": 17.270145
-    },
-    {
-      "url": "https://api.github.com/repos/alephdata/aleph/commits/329eb0ae0ab36dc0ec03716cb3f71c719a4c3f3b",
-      "sha": "329eb0ae0ab36dc0ec03716cb3f71c719a4c3f3b",
-      "html_url": "https://github.com/alephdata/aleph/commit/329eb0ae0ab36dc0ec03716cb3f71c719a4c3f3b",
-      "comments_url": "https://api.github.com/repos/alephdata/aleph/commits/329eb0ae0ab36dc0ec03716cb3f71c719a4c3f3b/comments",
-      "commit": {
-        "url": "https://api.github.com/repos/alephdata/aleph/git/commits/329eb0ae0ab36dc0ec03716cb3f71c719a4c3f3b",
-        "author": {
-          "date": "2017-12-01T21:20:42.000Z",
-          "name": "rhiaro",
-          "email": "amy@rhiaro.co.uk"
-        },
-        "committer": {
-          "date": "2017-12-01T21:20:42.000Z",
-          "name": "rhiaro",
-          "email": "amy@rhiaro.co.uk"
-        },
-        "message": "Use named volumes for ES to fix permissions issue",
-        "tree": {
-          "url": "https://api.github.com/repos/alephdata/aleph/git/trees/676b633897740e423fc0ebd48d55c4745cdc2ccc",
-          "sha": "676b633897740e423fc0ebd48d55c4745cdc2ccc"
-        },
-        "comment_count": 0
-      },
-      "author": {
-        "login": "rhiaro",
-        "id": 466229,
-        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/rhiaro",
-        "html_url": "https://github.com/rhiaro",
-        "followers_url": "https://api.github.com/users/rhiaro/followers",
-        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
-        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
-        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
-        "repos_url": "https://api.github.com/users/rhiaro/repos",
-        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "committer": {
-        "login": "rhiaro",
-        "id": 466229,
-        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/rhiaro",
-        "html_url": "https://github.com/rhiaro",
-        "followers_url": "https://api.github.com/users/rhiaro/followers",
-        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
-        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
-        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
-        "repos_url": "https://api.github.com/users/rhiaro/repos",
-        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "parents": [
-        {
-          "url": "https://api.github.com/repos/alephdata/aleph/commits/3422cb44e389a7a4e5a72189c7210dac46d7db54",
-          "html_url": "https://github.com/alephdata/aleph/commit/3422cb44e389a7a4e5a72189c7210dac46d7db54",
-          "sha": "3422cb44e389a7a4e5a72189c7210dac46d7db54"
-        }
-      ],
-      "repository": {
-        "id": 23404128,
-        "name": "aleph",
-        "full_name": "alephdata/aleph",
-        "owner": {
-          "login": "alephdata",
-          "id": 26249985,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/26249985?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/alephdata",
-          "html_url": "https://github.com/alephdata",
-          "followers_url": "https://api.github.com/users/alephdata/followers",
-          "following_url": "https://api.github.com/users/alephdata/following{/other_user}",
-          "gists_url": "https://api.github.com/users/alephdata/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/alephdata/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/alephdata/subscriptions",
-          "organizations_url": "https://api.github.com/users/alephdata/orgs",
-          "repos_url": "https://api.github.com/users/alephdata/repos",
-          "events_url": "https://api.github.com/users/alephdata/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/alephdata/received_events",
-          "type": "Organization",
-          "site_admin": false
-        },
-        "private": false,
-        "html_url": "https://github.com/alephdata/aleph",
-        "description": "Sift through large sets of structured and unstructured data, and find the people and companies you look for.",
-        "fork": false,
-        "url": "https://api.github.com/repos/alephdata/aleph",
-        "forks_url": "https://api.github.com/repos/alephdata/aleph/forks",
-        "keys_url": "https://api.github.com/repos/alephdata/aleph/keys{/key_id}",
-        "collaborators_url": "https://api.github.com/repos/alephdata/aleph/collaborators{/collaborator}",
-        "teams_url": "https://api.github.com/repos/alephdata/aleph/teams",
-        "hooks_url": "https://api.github.com/repos/alephdata/aleph/hooks",
-        "issue_events_url": "https://api.github.com/repos/alephdata/aleph/issues/events{/number}",
-        "events_url": "https://api.github.com/repos/alephdata/aleph/events",
-        "assignees_url": "https://api.github.com/repos/alephdata/aleph/assignees{/user}",
-        "branches_url": "https://api.github.com/repos/alephdata/aleph/branches{/branch}",
-        "tags_url": "https://api.github.com/repos/alephdata/aleph/tags",
-        "blobs_url": "https://api.github.com/repos/alephdata/aleph/git/blobs{/sha}",
-        "git_tags_url": "https://api.github.com/repos/alephdata/aleph/git/tags{/sha}",
-        "git_refs_url": "https://api.github.com/repos/alephdata/aleph/git/refs{/sha}",
-        "trees_url": "https://api.github.com/repos/alephdata/aleph/git/trees{/sha}",
-        "statuses_url": "https://api.github.com/repos/alephdata/aleph/statuses/{sha}",
-        "languages_url": "https://api.github.com/repos/alephdata/aleph/languages",
-        "stargazers_url": "https://api.github.com/repos/alephdata/aleph/stargazers",
-        "contributors_url": "https://api.github.com/repos/alephdata/aleph/contributors",
-        "subscribers_url": "https://api.github.com/repos/alephdata/aleph/subscribers",
-        "subscription_url": "https://api.github.com/repos/alephdata/aleph/subscription",
-        "commits_url": "https://api.github.com/repos/alephdata/aleph/commits{/sha}",
-        "git_commits_url": "https://api.github.com/repos/alephdata/aleph/git/commits{/sha}",
-        "comments_url": "https://api.github.com/repos/alephdata/aleph/comments{/number}",
-        "issue_comment_url": "https://api.github.com/repos/alephdata/aleph/issues/comments{/number}",
-        "contents_url": "https://api.github.com/repos/alephdata/aleph/contents/{+path}",
-        "compare_url": "https://api.github.com/repos/alephdata/aleph/compare/{base}...{head}",
-        "merges_url": "https://api.github.com/repos/alephdata/aleph/merges",
-        "archive_url": "https://api.github.com/repos/alephdata/aleph/{archive_format}{/ref}",
-        "downloads_url": "https://api.github.com/repos/alephdata/aleph/downloads",
-        "issues_url": "https://api.github.com/repos/alephdata/aleph/issues{/number}",
-        "pulls_url": "https://api.github.com/repos/alephdata/aleph/pulls{/number}",
-        "milestones_url": "https://api.github.com/repos/alephdata/aleph/milestones{/number}",
-        "notifications_url": "https://api.github.com/repos/alephdata/aleph/notifications{?since,all,participating}",
-        "labels_url": "https://api.github.com/repos/alephdata/aleph/labels{/name}",
-        "releases_url": "https://api.github.com/repos/alephdata/aleph/releases{/id}",
-        "deployments_url": "https://api.github.com/repos/alephdata/aleph/deployments"
-      },
-      "score": 16.580717
+      "score": 17.271397
     },
     {
       "url": "https://api.github.com/repos/alephdata/aleph/commits/0cdd27934be00b11514eb5c6bf11a91953a470cd",
@@ -816,7 +680,143 @@
         "releases_url": "https://api.github.com/repos/alephdata/aleph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/aleph/deployments"
       },
-      "score": 16.580717
+      "score": 16.580397
+    },
+    {
+      "url": "https://api.github.com/repos/alephdata/aleph/commits/329eb0ae0ab36dc0ec03716cb3f71c719a4c3f3b",
+      "sha": "329eb0ae0ab36dc0ec03716cb3f71c719a4c3f3b",
+      "html_url": "https://github.com/alephdata/aleph/commit/329eb0ae0ab36dc0ec03716cb3f71c719a4c3f3b",
+      "comments_url": "https://api.github.com/repos/alephdata/aleph/commits/329eb0ae0ab36dc0ec03716cb3f71c719a4c3f3b/comments",
+      "commit": {
+        "url": "https://api.github.com/repos/alephdata/aleph/git/commits/329eb0ae0ab36dc0ec03716cb3f71c719a4c3f3b",
+        "author": {
+          "date": "2017-12-01T21:20:42.000Z",
+          "name": "rhiaro",
+          "email": "amy@rhiaro.co.uk"
+        },
+        "committer": {
+          "date": "2017-12-01T21:20:42.000Z",
+          "name": "rhiaro",
+          "email": "amy@rhiaro.co.uk"
+        },
+        "message": "Use named volumes for ES to fix permissions issue",
+        "tree": {
+          "url": "https://api.github.com/repos/alephdata/aleph/git/trees/676b633897740e423fc0ebd48d55c4745cdc2ccc",
+          "sha": "676b633897740e423fc0ebd48d55c4745cdc2ccc"
+        },
+        "comment_count": 0
+      },
+      "author": {
+        "login": "rhiaro",
+        "id": 466229,
+        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rhiaro",
+        "html_url": "https://github.com/rhiaro",
+        "followers_url": "https://api.github.com/users/rhiaro/followers",
+        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
+        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
+        "repos_url": "https://api.github.com/users/rhiaro/repos",
+        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "rhiaro",
+        "id": 466229,
+        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rhiaro",
+        "html_url": "https://github.com/rhiaro",
+        "followers_url": "https://api.github.com/users/rhiaro/followers",
+        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
+        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
+        "repos_url": "https://api.github.com/users/rhiaro/repos",
+        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "url": "https://api.github.com/repos/alephdata/aleph/commits/3422cb44e389a7a4e5a72189c7210dac46d7db54",
+          "html_url": "https://github.com/alephdata/aleph/commit/3422cb44e389a7a4e5a72189c7210dac46d7db54",
+          "sha": "3422cb44e389a7a4e5a72189c7210dac46d7db54"
+        }
+      ],
+      "repository": {
+        "id": 23404128,
+        "name": "aleph",
+        "full_name": "alephdata/aleph",
+        "owner": {
+          "login": "alephdata",
+          "id": 26249985,
+          "avatar_url": "https://avatars0.githubusercontent.com/u/26249985?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/alephdata",
+          "html_url": "https://github.com/alephdata",
+          "followers_url": "https://api.github.com/users/alephdata/followers",
+          "following_url": "https://api.github.com/users/alephdata/following{/other_user}",
+          "gists_url": "https://api.github.com/users/alephdata/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/alephdata/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/alephdata/subscriptions",
+          "organizations_url": "https://api.github.com/users/alephdata/orgs",
+          "repos_url": "https://api.github.com/users/alephdata/repos",
+          "events_url": "https://api.github.com/users/alephdata/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/alephdata/received_events",
+          "type": "Organization",
+          "site_admin": false
+        },
+        "private": false,
+        "html_url": "https://github.com/alephdata/aleph",
+        "description": "Sift through large sets of structured and unstructured data, and find the people and companies you look for.",
+        "fork": false,
+        "url": "https://api.github.com/repos/alephdata/aleph",
+        "forks_url": "https://api.github.com/repos/alephdata/aleph/forks",
+        "keys_url": "https://api.github.com/repos/alephdata/aleph/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/alephdata/aleph/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/alephdata/aleph/teams",
+        "hooks_url": "https://api.github.com/repos/alephdata/aleph/hooks",
+        "issue_events_url": "https://api.github.com/repos/alephdata/aleph/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/alephdata/aleph/events",
+        "assignees_url": "https://api.github.com/repos/alephdata/aleph/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/alephdata/aleph/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/alephdata/aleph/tags",
+        "blobs_url": "https://api.github.com/repos/alephdata/aleph/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/alephdata/aleph/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/alephdata/aleph/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/alephdata/aleph/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/alephdata/aleph/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/alephdata/aleph/languages",
+        "stargazers_url": "https://api.github.com/repos/alephdata/aleph/stargazers",
+        "contributors_url": "https://api.github.com/repos/alephdata/aleph/contributors",
+        "subscribers_url": "https://api.github.com/repos/alephdata/aleph/subscribers",
+        "subscription_url": "https://api.github.com/repos/alephdata/aleph/subscription",
+        "commits_url": "https://api.github.com/repos/alephdata/aleph/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/alephdata/aleph/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/alephdata/aleph/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/alephdata/aleph/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/alephdata/aleph/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/alephdata/aleph/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/alephdata/aleph/merges",
+        "archive_url": "https://api.github.com/repos/alephdata/aleph/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/alephdata/aleph/downloads",
+        "issues_url": "https://api.github.com/repos/alephdata/aleph/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/alephdata/aleph/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/alephdata/aleph/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/alephdata/aleph/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/alephdata/aleph/labels{/name}",
+        "releases_url": "https://api.github.com/repos/alephdata/aleph/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/alephdata/aleph/deployments"
+      },
+      "score": 16.580397
     },
     {
       "url": "https://api.github.com/repos/alephdata/aleph/commits/d16e062d382c9f595c800dc4716a7364087efbe0",
@@ -952,7 +952,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/aleph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/aleph/deployments"
       },
-      "score": 16.580717
+      "score": 16.580397
     },
     {
       "url": "https://api.github.com/repos/alephdata/aleph/commits/a9a7e6145814ebb2865ba4e25c10e417c0400f15",
@@ -1088,551 +1088,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/aleph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/aleph/deployments"
       },
-      "score": 16.580717
-    },
-    {
-      "url": "https://api.github.com/repos/alephdata/memorious/commits/d936dd4117f189c6926b6da209bf63144d5d3c7d",
-      "sha": "d936dd4117f189c6926b6da209bf63144d5d3c7d",
-      "html_url": "https://github.com/alephdata/memorious/commit/d936dd4117f189c6926b6da209bf63144d5d3c7d",
-      "comments_url": "https://api.github.com/repos/alephdata/memorious/commits/d936dd4117f189c6926b6da209bf63144d5d3c7d/comments",
-      "commit": {
-        "url": "https://api.github.com/repos/alephdata/memorious/git/commits/d936dd4117f189c6926b6da209bf63144d5d3c7d",
-        "author": {
-          "date": "2017-12-08T18:54:16.000+01:00",
-          "name": "rhiaro",
-          "email": "amy@rhiaro.co.uk"
-        },
-        "committer": {
-          "date": "2017-12-08T18:54:16.000+01:00",
-          "name": "rhiaro",
-          "email": "amy@rhiaro.co.uk"
-        },
-        "message": "Add retrieved and modified date, and relevant helper",
-        "tree": {
-          "url": "https://api.github.com/repos/alephdata/memorious/git/trees/ef463c56cb008b47bba19099b2fdded61d1c43e6",
-          "sha": "ef463c56cb008b47bba19099b2fdded61d1c43e6"
-        },
-        "comment_count": 0
-      },
-      "author": {
-        "login": "rhiaro",
-        "id": 466229,
-        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/rhiaro",
-        "html_url": "https://github.com/rhiaro",
-        "followers_url": "https://api.github.com/users/rhiaro/followers",
-        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
-        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
-        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
-        "repos_url": "https://api.github.com/users/rhiaro/repos",
-        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "committer": {
-        "login": "rhiaro",
-        "id": 466229,
-        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/rhiaro",
-        "html_url": "https://github.com/rhiaro",
-        "followers_url": "https://api.github.com/users/rhiaro/followers",
-        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
-        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
-        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
-        "repos_url": "https://api.github.com/users/rhiaro/repos",
-        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "parents": [
-        {
-          "url": "https://api.github.com/repos/alephdata/memorious/commits/9b125deacacce9d4233417391d6e9bcb97c9d905",
-          "html_url": "https://github.com/alephdata/memorious/commit/9b125deacacce9d4233417391d6e9bcb97c9d905",
-          "sha": "9b125deacacce9d4233417391d6e9bcb97c9d905"
-        }
-      ],
-      "repository": {
-        "id": 102375291,
-        "name": "memorious",
-        "full_name": "alephdata/memorious",
-        "owner": {
-          "login": "alephdata",
-          "id": 26249985,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/26249985?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/alephdata",
-          "html_url": "https://github.com/alephdata",
-          "followers_url": "https://api.github.com/users/alephdata/followers",
-          "following_url": "https://api.github.com/users/alephdata/following{/other_user}",
-          "gists_url": "https://api.github.com/users/alephdata/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/alephdata/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/alephdata/subscriptions",
-          "organizations_url": "https://api.github.com/users/alephdata/orgs",
-          "repos_url": "https://api.github.com/users/alephdata/repos",
-          "events_url": "https://api.github.com/users/alephdata/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/alephdata/received_events",
-          "type": "Organization",
-          "site_admin": false
-        },
-        "private": false,
-        "html_url": "https://github.com/alephdata/memorious",
-        "description": "Distributed crawling framework for documents and structured data.",
-        "fork": false,
-        "url": "https://api.github.com/repos/alephdata/memorious",
-        "forks_url": "https://api.github.com/repos/alephdata/memorious/forks",
-        "keys_url": "https://api.github.com/repos/alephdata/memorious/keys{/key_id}",
-        "collaborators_url": "https://api.github.com/repos/alephdata/memorious/collaborators{/collaborator}",
-        "teams_url": "https://api.github.com/repos/alephdata/memorious/teams",
-        "hooks_url": "https://api.github.com/repos/alephdata/memorious/hooks",
-        "issue_events_url": "https://api.github.com/repos/alephdata/memorious/issues/events{/number}",
-        "events_url": "https://api.github.com/repos/alephdata/memorious/events",
-        "assignees_url": "https://api.github.com/repos/alephdata/memorious/assignees{/user}",
-        "branches_url": "https://api.github.com/repos/alephdata/memorious/branches{/branch}",
-        "tags_url": "https://api.github.com/repos/alephdata/memorious/tags",
-        "blobs_url": "https://api.github.com/repos/alephdata/memorious/git/blobs{/sha}",
-        "git_tags_url": "https://api.github.com/repos/alephdata/memorious/git/tags{/sha}",
-        "git_refs_url": "https://api.github.com/repos/alephdata/memorious/git/refs{/sha}",
-        "trees_url": "https://api.github.com/repos/alephdata/memorious/git/trees{/sha}",
-        "statuses_url": "https://api.github.com/repos/alephdata/memorious/statuses/{sha}",
-        "languages_url": "https://api.github.com/repos/alephdata/memorious/languages",
-        "stargazers_url": "https://api.github.com/repos/alephdata/memorious/stargazers",
-        "contributors_url": "https://api.github.com/repos/alephdata/memorious/contributors",
-        "subscribers_url": "https://api.github.com/repos/alephdata/memorious/subscribers",
-        "subscription_url": "https://api.github.com/repos/alephdata/memorious/subscription",
-        "commits_url": "https://api.github.com/repos/alephdata/memorious/commits{/sha}",
-        "git_commits_url": "https://api.github.com/repos/alephdata/memorious/git/commits{/sha}",
-        "comments_url": "https://api.github.com/repos/alephdata/memorious/comments{/number}",
-        "issue_comment_url": "https://api.github.com/repos/alephdata/memorious/issues/comments{/number}",
-        "contents_url": "https://api.github.com/repos/alephdata/memorious/contents/{+path}",
-        "compare_url": "https://api.github.com/repos/alephdata/memorious/compare/{base}...{head}",
-        "merges_url": "https://api.github.com/repos/alephdata/memorious/merges",
-        "archive_url": "https://api.github.com/repos/alephdata/memorious/{archive_format}{/ref}",
-        "downloads_url": "https://api.github.com/repos/alephdata/memorious/downloads",
-        "issues_url": "https://api.github.com/repos/alephdata/memorious/issues{/number}",
-        "pulls_url": "https://api.github.com/repos/alephdata/memorious/pulls{/number}",
-        "milestones_url": "https://api.github.com/repos/alephdata/memorious/milestones{/number}",
-        "notifications_url": "https://api.github.com/repos/alephdata/memorious/notifications{?since,all,participating}",
-        "labels_url": "https://api.github.com/repos/alephdata/memorious/labels{/name}",
-        "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
-        "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
-      },
-      "score": 16.204924
-    },
-    {
-      "url": "https://api.github.com/repos/alephdata/memorious/commits/9b125deacacce9d4233417391d6e9bcb97c9d905",
-      "sha": "9b125deacacce9d4233417391d6e9bcb97c9d905",
-      "html_url": "https://github.com/alephdata/memorious/commit/9b125deacacce9d4233417391d6e9bcb97c9d905",
-      "comments_url": "https://api.github.com/repos/alephdata/memorious/commits/9b125deacacce9d4233417391d6e9bcb97c9d905/comments",
-      "commit": {
-        "url": "https://api.github.com/repos/alephdata/memorious/git/commits/9b125deacacce9d4233417391d6e9bcb97c9d905",
-        "author": {
-          "date": "2017-12-08T11:15:32.000+01:00",
-          "name": "rhiaro",
-          "email": "amy@rhiaro.co.uk"
-        },
-        "committer": {
-          "date": "2017-12-08T11:15:32.000+01:00",
-          "name": "rhiaro",
-          "email": "amy@rhiaro.co.uk"
-        },
-        "message": "Send category",
-        "tree": {
-          "url": "https://api.github.com/repos/alephdata/memorious/git/trees/b3138d38cd777021b0dc6105d9109f4b651be154",
-          "sha": "b3138d38cd777021b0dc6105d9109f4b651be154"
-        },
-        "comment_count": 0
-      },
-      "author": {
-        "login": "rhiaro",
-        "id": 466229,
-        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/rhiaro",
-        "html_url": "https://github.com/rhiaro",
-        "followers_url": "https://api.github.com/users/rhiaro/followers",
-        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
-        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
-        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
-        "repos_url": "https://api.github.com/users/rhiaro/repos",
-        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "committer": {
-        "login": "rhiaro",
-        "id": 466229,
-        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/rhiaro",
-        "html_url": "https://github.com/rhiaro",
-        "followers_url": "https://api.github.com/users/rhiaro/followers",
-        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
-        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
-        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
-        "repos_url": "https://api.github.com/users/rhiaro/repos",
-        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "parents": [
-        {
-          "url": "https://api.github.com/repos/alephdata/memorious/commits/68d3e3bc8e07c8b5044c96670c90f8232b60301e",
-          "html_url": "https://github.com/alephdata/memorious/commit/68d3e3bc8e07c8b5044c96670c90f8232b60301e",
-          "sha": "68d3e3bc8e07c8b5044c96670c90f8232b60301e"
-        }
-      ],
-      "repository": {
-        "id": 102375291,
-        "name": "memorious",
-        "full_name": "alephdata/memorious",
-        "owner": {
-          "login": "alephdata",
-          "id": 26249985,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/26249985?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/alephdata",
-          "html_url": "https://github.com/alephdata",
-          "followers_url": "https://api.github.com/users/alephdata/followers",
-          "following_url": "https://api.github.com/users/alephdata/following{/other_user}",
-          "gists_url": "https://api.github.com/users/alephdata/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/alephdata/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/alephdata/subscriptions",
-          "organizations_url": "https://api.github.com/users/alephdata/orgs",
-          "repos_url": "https://api.github.com/users/alephdata/repos",
-          "events_url": "https://api.github.com/users/alephdata/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/alephdata/received_events",
-          "type": "Organization",
-          "site_admin": false
-        },
-        "private": false,
-        "html_url": "https://github.com/alephdata/memorious",
-        "description": "Distributed crawling framework for documents and structured data.",
-        "fork": false,
-        "url": "https://api.github.com/repos/alephdata/memorious",
-        "forks_url": "https://api.github.com/repos/alephdata/memorious/forks",
-        "keys_url": "https://api.github.com/repos/alephdata/memorious/keys{/key_id}",
-        "collaborators_url": "https://api.github.com/repos/alephdata/memorious/collaborators{/collaborator}",
-        "teams_url": "https://api.github.com/repos/alephdata/memorious/teams",
-        "hooks_url": "https://api.github.com/repos/alephdata/memorious/hooks",
-        "issue_events_url": "https://api.github.com/repos/alephdata/memorious/issues/events{/number}",
-        "events_url": "https://api.github.com/repos/alephdata/memorious/events",
-        "assignees_url": "https://api.github.com/repos/alephdata/memorious/assignees{/user}",
-        "branches_url": "https://api.github.com/repos/alephdata/memorious/branches{/branch}",
-        "tags_url": "https://api.github.com/repos/alephdata/memorious/tags",
-        "blobs_url": "https://api.github.com/repos/alephdata/memorious/git/blobs{/sha}",
-        "git_tags_url": "https://api.github.com/repos/alephdata/memorious/git/tags{/sha}",
-        "git_refs_url": "https://api.github.com/repos/alephdata/memorious/git/refs{/sha}",
-        "trees_url": "https://api.github.com/repos/alephdata/memorious/git/trees{/sha}",
-        "statuses_url": "https://api.github.com/repos/alephdata/memorious/statuses/{sha}",
-        "languages_url": "https://api.github.com/repos/alephdata/memorious/languages",
-        "stargazers_url": "https://api.github.com/repos/alephdata/memorious/stargazers",
-        "contributors_url": "https://api.github.com/repos/alephdata/memorious/contributors",
-        "subscribers_url": "https://api.github.com/repos/alephdata/memorious/subscribers",
-        "subscription_url": "https://api.github.com/repos/alephdata/memorious/subscription",
-        "commits_url": "https://api.github.com/repos/alephdata/memorious/commits{/sha}",
-        "git_commits_url": "https://api.github.com/repos/alephdata/memorious/git/commits{/sha}",
-        "comments_url": "https://api.github.com/repos/alephdata/memorious/comments{/number}",
-        "issue_comment_url": "https://api.github.com/repos/alephdata/memorious/issues/comments{/number}",
-        "contents_url": "https://api.github.com/repos/alephdata/memorious/contents/{+path}",
-        "compare_url": "https://api.github.com/repos/alephdata/memorious/compare/{base}...{head}",
-        "merges_url": "https://api.github.com/repos/alephdata/memorious/merges",
-        "archive_url": "https://api.github.com/repos/alephdata/memorious/{archive_format}{/ref}",
-        "downloads_url": "https://api.github.com/repos/alephdata/memorious/downloads",
-        "issues_url": "https://api.github.com/repos/alephdata/memorious/issues{/number}",
-        "pulls_url": "https://api.github.com/repos/alephdata/memorious/pulls{/number}",
-        "milestones_url": "https://api.github.com/repos/alephdata/memorious/milestones{/number}",
-        "notifications_url": "https://api.github.com/repos/alephdata/memorious/notifications{?since,all,participating}",
-        "labels_url": "https://api.github.com/repos/alephdata/memorious/labels{/name}",
-        "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
-        "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
-      },
-      "score": 16.204924
-    },
-    {
-      "url": "https://api.github.com/repos/alephdata/memorious/commits/68d3e3bc8e07c8b5044c96670c90f8232b60301e",
-      "sha": "68d3e3bc8e07c8b5044c96670c90f8232b60301e",
-      "html_url": "https://github.com/alephdata/memorious/commit/68d3e3bc8e07c8b5044c96670c90f8232b60301e",
-      "comments_url": "https://api.github.com/repos/alephdata/memorious/commits/68d3e3bc8e07c8b5044c96670c90f8232b60301e/comments",
-      "commit": {
-        "url": "https://api.github.com/repos/alephdata/memorious/git/commits/68d3e3bc8e07c8b5044c96670c90f8232b60301e",
-        "author": {
-          "date": "2017-12-08T09:58:05.000+01:00",
-          "name": "rhiaro",
-          "email": "amy@rhiaro.co.uk"
-        },
-        "committer": {
-          "date": "2017-12-08T09:58:05.000+01:00",
-          "name": "rhiaro",
-          "email": "amy@rhiaro.co.uk"
-        },
-        "message": "Needs category for aleph, defaults to 'scrape'",
-        "tree": {
-          "url": "https://api.github.com/repos/alephdata/memorious/git/trees/c270e0d12db95e321a6e267a08ce704e540c7d65",
-          "sha": "c270e0d12db95e321a6e267a08ce704e540c7d65"
-        },
-        "comment_count": 0
-      },
-      "author": {
-        "login": "rhiaro",
-        "id": 466229,
-        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/rhiaro",
-        "html_url": "https://github.com/rhiaro",
-        "followers_url": "https://api.github.com/users/rhiaro/followers",
-        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
-        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
-        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
-        "repos_url": "https://api.github.com/users/rhiaro/repos",
-        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "committer": {
-        "login": "rhiaro",
-        "id": 466229,
-        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/rhiaro",
-        "html_url": "https://github.com/rhiaro",
-        "followers_url": "https://api.github.com/users/rhiaro/followers",
-        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
-        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
-        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
-        "repos_url": "https://api.github.com/users/rhiaro/repos",
-        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "parents": [
-        {
-          "url": "https://api.github.com/repos/alephdata/memorious/commits/fdf0ddb7b246ab95b526da5242fbbc4243d25e18",
-          "html_url": "https://github.com/alephdata/memorious/commit/fdf0ddb7b246ab95b526da5242fbbc4243d25e18",
-          "sha": "fdf0ddb7b246ab95b526da5242fbbc4243d25e18"
-        }
-      ],
-      "repository": {
-        "id": 102375291,
-        "name": "memorious",
-        "full_name": "alephdata/memorious",
-        "owner": {
-          "login": "alephdata",
-          "id": 26249985,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/26249985?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/alephdata",
-          "html_url": "https://github.com/alephdata",
-          "followers_url": "https://api.github.com/users/alephdata/followers",
-          "following_url": "https://api.github.com/users/alephdata/following{/other_user}",
-          "gists_url": "https://api.github.com/users/alephdata/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/alephdata/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/alephdata/subscriptions",
-          "organizations_url": "https://api.github.com/users/alephdata/orgs",
-          "repos_url": "https://api.github.com/users/alephdata/repos",
-          "events_url": "https://api.github.com/users/alephdata/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/alephdata/received_events",
-          "type": "Organization",
-          "site_admin": false
-        },
-        "private": false,
-        "html_url": "https://github.com/alephdata/memorious",
-        "description": "Distributed crawling framework for documents and structured data.",
-        "fork": false,
-        "url": "https://api.github.com/repos/alephdata/memorious",
-        "forks_url": "https://api.github.com/repos/alephdata/memorious/forks",
-        "keys_url": "https://api.github.com/repos/alephdata/memorious/keys{/key_id}",
-        "collaborators_url": "https://api.github.com/repos/alephdata/memorious/collaborators{/collaborator}",
-        "teams_url": "https://api.github.com/repos/alephdata/memorious/teams",
-        "hooks_url": "https://api.github.com/repos/alephdata/memorious/hooks",
-        "issue_events_url": "https://api.github.com/repos/alephdata/memorious/issues/events{/number}",
-        "events_url": "https://api.github.com/repos/alephdata/memorious/events",
-        "assignees_url": "https://api.github.com/repos/alephdata/memorious/assignees{/user}",
-        "branches_url": "https://api.github.com/repos/alephdata/memorious/branches{/branch}",
-        "tags_url": "https://api.github.com/repos/alephdata/memorious/tags",
-        "blobs_url": "https://api.github.com/repos/alephdata/memorious/git/blobs{/sha}",
-        "git_tags_url": "https://api.github.com/repos/alephdata/memorious/git/tags{/sha}",
-        "git_refs_url": "https://api.github.com/repos/alephdata/memorious/git/refs{/sha}",
-        "trees_url": "https://api.github.com/repos/alephdata/memorious/git/trees{/sha}",
-        "statuses_url": "https://api.github.com/repos/alephdata/memorious/statuses/{sha}",
-        "languages_url": "https://api.github.com/repos/alephdata/memorious/languages",
-        "stargazers_url": "https://api.github.com/repos/alephdata/memorious/stargazers",
-        "contributors_url": "https://api.github.com/repos/alephdata/memorious/contributors",
-        "subscribers_url": "https://api.github.com/repos/alephdata/memorious/subscribers",
-        "subscription_url": "https://api.github.com/repos/alephdata/memorious/subscription",
-        "commits_url": "https://api.github.com/repos/alephdata/memorious/commits{/sha}",
-        "git_commits_url": "https://api.github.com/repos/alephdata/memorious/git/commits{/sha}",
-        "comments_url": "https://api.github.com/repos/alephdata/memorious/comments{/number}",
-        "issue_comment_url": "https://api.github.com/repos/alephdata/memorious/issues/comments{/number}",
-        "contents_url": "https://api.github.com/repos/alephdata/memorious/contents/{+path}",
-        "compare_url": "https://api.github.com/repos/alephdata/memorious/compare/{base}...{head}",
-        "merges_url": "https://api.github.com/repos/alephdata/memorious/merges",
-        "archive_url": "https://api.github.com/repos/alephdata/memorious/{archive_format}{/ref}",
-        "downloads_url": "https://api.github.com/repos/alephdata/memorious/downloads",
-        "issues_url": "https://api.github.com/repos/alephdata/memorious/issues{/number}",
-        "pulls_url": "https://api.github.com/repos/alephdata/memorious/pulls{/number}",
-        "milestones_url": "https://api.github.com/repos/alephdata/memorious/milestones{/number}",
-        "notifications_url": "https://api.github.com/repos/alephdata/memorious/notifications{?since,all,participating}",
-        "labels_url": "https://api.github.com/repos/alephdata/memorious/labels{/name}",
-        "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
-        "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
-      },
-      "score": 16.204924
-    },
-    {
-      "url": "https://api.github.com/repos/alephdata/memorious/commits/159f556c00b400ef2c1a99f2840fbfd77161c6c5",
-      "sha": "159f556c00b400ef2c1a99f2840fbfd77161c6c5",
-      "html_url": "https://github.com/alephdata/memorious/commit/159f556c00b400ef2c1a99f2840fbfd77161c6c5",
-      "comments_url": "https://api.github.com/repos/alephdata/memorious/commits/159f556c00b400ef2c1a99f2840fbfd77161c6c5/comments",
-      "commit": {
-        "url": "https://api.github.com/repos/alephdata/memorious/git/commits/159f556c00b400ef2c1a99f2840fbfd77161c6c5",
-        "author": {
-          "date": "2017-12-09T17:54:37.000+01:00",
-          "name": "rhiaro",
-          "email": "amy@rhiaro.co.uk"
-        },
-        "committer": {
-          "date": "2017-12-09T17:54:56.000+01:00",
-          "name": "rhiaro",
-          "email": "amy@rhiaro.co.uk"
-        },
-        "message": "Default to aleph 2",
-        "tree": {
-          "url": "https://api.github.com/repos/alephdata/memorious/git/trees/b96afebaecf4cdb292f2c4c84243b7f9718ecdf0",
-          "sha": "b96afebaecf4cdb292f2c4c84243b7f9718ecdf0"
-        },
-        "comment_count": 0
-      },
-      "author": {
-        "login": "rhiaro",
-        "id": 466229,
-        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/rhiaro",
-        "html_url": "https://github.com/rhiaro",
-        "followers_url": "https://api.github.com/users/rhiaro/followers",
-        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
-        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
-        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
-        "repos_url": "https://api.github.com/users/rhiaro/repos",
-        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "committer": {
-        "login": "rhiaro",
-        "id": 466229,
-        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/rhiaro",
-        "html_url": "https://github.com/rhiaro",
-        "followers_url": "https://api.github.com/users/rhiaro/followers",
-        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
-        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
-        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
-        "repos_url": "https://api.github.com/users/rhiaro/repos",
-        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "parents": [
-        {
-          "url": "https://api.github.com/repos/alephdata/memorious/commits/4a64f7b8ea1ae07069d7cf1cf0acab6806d81777",
-          "html_url": "https://github.com/alephdata/memorious/commit/4a64f7b8ea1ae07069d7cf1cf0acab6806d81777",
-          "sha": "4a64f7b8ea1ae07069d7cf1cf0acab6806d81777"
-        }
-      ],
-      "repository": {
-        "id": 102375291,
-        "name": "memorious",
-        "full_name": "alephdata/memorious",
-        "owner": {
-          "login": "alephdata",
-          "id": 26249985,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/26249985?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/alephdata",
-          "html_url": "https://github.com/alephdata",
-          "followers_url": "https://api.github.com/users/alephdata/followers",
-          "following_url": "https://api.github.com/users/alephdata/following{/other_user}",
-          "gists_url": "https://api.github.com/users/alephdata/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/alephdata/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/alephdata/subscriptions",
-          "organizations_url": "https://api.github.com/users/alephdata/orgs",
-          "repos_url": "https://api.github.com/users/alephdata/repos",
-          "events_url": "https://api.github.com/users/alephdata/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/alephdata/received_events",
-          "type": "Organization",
-          "site_admin": false
-        },
-        "private": false,
-        "html_url": "https://github.com/alephdata/memorious",
-        "description": "Distributed crawling framework for documents and structured data.",
-        "fork": false,
-        "url": "https://api.github.com/repos/alephdata/memorious",
-        "forks_url": "https://api.github.com/repos/alephdata/memorious/forks",
-        "keys_url": "https://api.github.com/repos/alephdata/memorious/keys{/key_id}",
-        "collaborators_url": "https://api.github.com/repos/alephdata/memorious/collaborators{/collaborator}",
-        "teams_url": "https://api.github.com/repos/alephdata/memorious/teams",
-        "hooks_url": "https://api.github.com/repos/alephdata/memorious/hooks",
-        "issue_events_url": "https://api.github.com/repos/alephdata/memorious/issues/events{/number}",
-        "events_url": "https://api.github.com/repos/alephdata/memorious/events",
-        "assignees_url": "https://api.github.com/repos/alephdata/memorious/assignees{/user}",
-        "branches_url": "https://api.github.com/repos/alephdata/memorious/branches{/branch}",
-        "tags_url": "https://api.github.com/repos/alephdata/memorious/tags",
-        "blobs_url": "https://api.github.com/repos/alephdata/memorious/git/blobs{/sha}",
-        "git_tags_url": "https://api.github.com/repos/alephdata/memorious/git/tags{/sha}",
-        "git_refs_url": "https://api.github.com/repos/alephdata/memorious/git/refs{/sha}",
-        "trees_url": "https://api.github.com/repos/alephdata/memorious/git/trees{/sha}",
-        "statuses_url": "https://api.github.com/repos/alephdata/memorious/statuses/{sha}",
-        "languages_url": "https://api.github.com/repos/alephdata/memorious/languages",
-        "stargazers_url": "https://api.github.com/repos/alephdata/memorious/stargazers",
-        "contributors_url": "https://api.github.com/repos/alephdata/memorious/contributors",
-        "subscribers_url": "https://api.github.com/repos/alephdata/memorious/subscribers",
-        "subscription_url": "https://api.github.com/repos/alephdata/memorious/subscription",
-        "commits_url": "https://api.github.com/repos/alephdata/memorious/commits{/sha}",
-        "git_commits_url": "https://api.github.com/repos/alephdata/memorious/git/commits{/sha}",
-        "comments_url": "https://api.github.com/repos/alephdata/memorious/comments{/number}",
-        "issue_comment_url": "https://api.github.com/repos/alephdata/memorious/issues/comments{/number}",
-        "contents_url": "https://api.github.com/repos/alephdata/memorious/contents/{+path}",
-        "compare_url": "https://api.github.com/repos/alephdata/memorious/compare/{base}...{head}",
-        "merges_url": "https://api.github.com/repos/alephdata/memorious/merges",
-        "archive_url": "https://api.github.com/repos/alephdata/memorious/{archive_format}{/ref}",
-        "downloads_url": "https://api.github.com/repos/alephdata/memorious/downloads",
-        "issues_url": "https://api.github.com/repos/alephdata/memorious/issues{/number}",
-        "pulls_url": "https://api.github.com/repos/alephdata/memorious/pulls{/number}",
-        "milestones_url": "https://api.github.com/repos/alephdata/memorious/milestones{/number}",
-        "notifications_url": "https://api.github.com/repos/alephdata/memorious/notifications{?since,all,participating}",
-        "labels_url": "https://api.github.com/repos/alephdata/memorious/labels{/name}",
-        "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
-        "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
-      },
-      "score": 16.204924
+      "score": 16.580397
     },
     {
       "url": "https://api.github.com/repos/alephdata/memorious/commits/4a64f7b8ea1ae07069d7cf1cf0acab6806d81777",
@@ -1768,7 +1224,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.204924
+      "score": 16.196508
     },
     {
       "url": "https://api.github.com/repos/alephdata/memorious/commits/ed85744c9221fa36531ab978013e14810533ece1",
@@ -1904,29 +1360,29 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.204924
+      "score": 16.196508
     },
     {
-      "url": "https://api.github.com/repos/alephdata/memorious/commits/24d72cca18bad42e395e3d002e729e4d726db17a",
-      "sha": "24d72cca18bad42e395e3d002e729e4d726db17a",
-      "html_url": "https://github.com/alephdata/memorious/commit/24d72cca18bad42e395e3d002e729e4d726db17a",
-      "comments_url": "https://api.github.com/repos/alephdata/memorious/commits/24d72cca18bad42e395e3d002e729e4d726db17a/comments",
+      "url": "https://api.github.com/repos/alephdata/memorious/commits/159f556c00b400ef2c1a99f2840fbfd77161c6c5",
+      "sha": "159f556c00b400ef2c1a99f2840fbfd77161c6c5",
+      "html_url": "https://github.com/alephdata/memorious/commit/159f556c00b400ef2c1a99f2840fbfd77161c6c5",
+      "comments_url": "https://api.github.com/repos/alephdata/memorious/commits/159f556c00b400ef2c1a99f2840fbfd77161c6c5/comments",
       "commit": {
-        "url": "https://api.github.com/repos/alephdata/memorious/git/commits/24d72cca18bad42e395e3d002e729e4d726db17a",
+        "url": "https://api.github.com/repos/alephdata/memorious/git/commits/159f556c00b400ef2c1a99f2840fbfd77161c6c5",
         "author": {
-          "date": "2017-12-11T17:10:14.000+01:00",
+          "date": "2017-12-09T17:54:37.000+01:00",
           "name": "rhiaro",
           "email": "amy@rhiaro.co.uk"
         },
         "committer": {
-          "date": "2017-12-11T17:10:14.000+01:00",
+          "date": "2017-12-09T17:54:56.000+01:00",
           "name": "rhiaro",
           "email": "amy@rhiaro.co.uk"
         },
-        "message": "XPaths for where to parse. Fixes #10",
+        "message": "Default to aleph 2",
         "tree": {
-          "url": "https://api.github.com/repos/alephdata/memorious/git/trees/acaf2c8a32d1e09ab5148882532f4c5938f365b5",
-          "sha": "acaf2c8a32d1e09ab5148882532f4c5938f365b5"
+          "url": "https://api.github.com/repos/alephdata/memorious/git/trees/b96afebaecf4cdb292f2c4c84243b7f9718ecdf0",
+          "sha": "b96afebaecf4cdb292f2c4c84243b7f9718ecdf0"
         },
         "comment_count": 0
       },
@@ -1970,9 +1426,9 @@
       },
       "parents": [
         {
-          "url": "https://api.github.com/repos/alephdata/memorious/commits/e7a2212a2c6ca69b4ec8295ef0d64ea8ebaff4ab",
-          "html_url": "https://github.com/alephdata/memorious/commit/e7a2212a2c6ca69b4ec8295ef0d64ea8ebaff4ab",
-          "sha": "e7a2212a2c6ca69b4ec8295ef0d64ea8ebaff4ab"
+          "url": "https://api.github.com/repos/alephdata/memorious/commits/4a64f7b8ea1ae07069d7cf1cf0acab6806d81777",
+          "html_url": "https://github.com/alephdata/memorious/commit/4a64f7b8ea1ae07069d7cf1cf0acab6806d81777",
+          "sha": "4a64f7b8ea1ae07069d7cf1cf0acab6806d81777"
         }
       ],
       "repository": {
@@ -2040,29 +1496,29 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.204924
+      "score": 16.196508
     },
     {
-      "url": "https://api.github.com/repos/alephdata/memorious/commits/45f2bb8136f0ecbd9c8050ad0ce09d4ce38943d5",
-      "sha": "45f2bb8136f0ecbd9c8050ad0ce09d4ce38943d5",
-      "html_url": "https://github.com/alephdata/memorious/commit/45f2bb8136f0ecbd9c8050ad0ce09d4ce38943d5",
-      "comments_url": "https://api.github.com/repos/alephdata/memorious/commits/45f2bb8136f0ecbd9c8050ad0ce09d4ce38943d5/comments",
+      "url": "https://api.github.com/repos/alephdata/memorious/commits/d936dd4117f189c6926b6da209bf63144d5d3c7d",
+      "sha": "d936dd4117f189c6926b6da209bf63144d5d3c7d",
+      "html_url": "https://github.com/alephdata/memorious/commit/d936dd4117f189c6926b6da209bf63144d5d3c7d",
+      "comments_url": "https://api.github.com/repos/alephdata/memorious/commits/d936dd4117f189c6926b6da209bf63144d5d3c7d/comments",
       "commit": {
-        "url": "https://api.github.com/repos/alephdata/memorious/git/commits/45f2bb8136f0ecbd9c8050ad0ce09d4ce38943d5",
+        "url": "https://api.github.com/repos/alephdata/memorious/git/commits/d936dd4117f189c6926b6da209bf63144d5d3c7d",
         "author": {
-          "date": "2017-12-11T17:10:39.000+01:00",
+          "date": "2017-12-08T18:54:16.000+01:00",
           "name": "rhiaro",
           "email": "amy@rhiaro.co.uk"
         },
         "committer": {
-          "date": "2017-12-11T17:10:39.000+01:00",
+          "date": "2017-12-08T18:54:16.000+01:00",
           "name": "rhiaro",
           "email": "amy@rhiaro.co.uk"
         },
-        "message": "Sample crawler with xpaths",
+        "message": "Add retrieved and modified date, and relevant helper",
         "tree": {
-          "url": "https://api.github.com/repos/alephdata/memorious/git/trees/51e18e80401f4bae7a0890da4a1ad3d9e49d5834",
-          "sha": "51e18e80401f4bae7a0890da4a1ad3d9e49d5834"
+          "url": "https://api.github.com/repos/alephdata/memorious/git/trees/ef463c56cb008b47bba19099b2fdded61d1c43e6",
+          "sha": "ef463c56cb008b47bba19099b2fdded61d1c43e6"
         },
         "comment_count": 0
       },
@@ -2106,9 +1562,9 @@
       },
       "parents": [
         {
-          "url": "https://api.github.com/repos/alephdata/memorious/commits/24d72cca18bad42e395e3d002e729e4d726db17a",
-          "html_url": "https://github.com/alephdata/memorious/commit/24d72cca18bad42e395e3d002e729e4d726db17a",
-          "sha": "24d72cca18bad42e395e3d002e729e4d726db17a"
+          "url": "https://api.github.com/repos/alephdata/memorious/commits/9b125deacacce9d4233417391d6e9bcb97c9d905",
+          "html_url": "https://github.com/alephdata/memorious/commit/9b125deacacce9d4233417391d6e9bcb97c9d905",
+          "sha": "9b125deacacce9d4233417391d6e9bcb97c9d905"
         }
       ],
       "repository": {
@@ -2176,7 +1632,279 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.204924
+      "score": 16.196508
+    },
+    {
+      "url": "https://api.github.com/repos/alephdata/memorious/commits/9b125deacacce9d4233417391d6e9bcb97c9d905",
+      "sha": "9b125deacacce9d4233417391d6e9bcb97c9d905",
+      "html_url": "https://github.com/alephdata/memorious/commit/9b125deacacce9d4233417391d6e9bcb97c9d905",
+      "comments_url": "https://api.github.com/repos/alephdata/memorious/commits/9b125deacacce9d4233417391d6e9bcb97c9d905/comments",
+      "commit": {
+        "url": "https://api.github.com/repos/alephdata/memorious/git/commits/9b125deacacce9d4233417391d6e9bcb97c9d905",
+        "author": {
+          "date": "2017-12-08T11:15:32.000+01:00",
+          "name": "rhiaro",
+          "email": "amy@rhiaro.co.uk"
+        },
+        "committer": {
+          "date": "2017-12-08T11:15:32.000+01:00",
+          "name": "rhiaro",
+          "email": "amy@rhiaro.co.uk"
+        },
+        "message": "Send category",
+        "tree": {
+          "url": "https://api.github.com/repos/alephdata/memorious/git/trees/b3138d38cd777021b0dc6105d9109f4b651be154",
+          "sha": "b3138d38cd777021b0dc6105d9109f4b651be154"
+        },
+        "comment_count": 0
+      },
+      "author": {
+        "login": "rhiaro",
+        "id": 466229,
+        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rhiaro",
+        "html_url": "https://github.com/rhiaro",
+        "followers_url": "https://api.github.com/users/rhiaro/followers",
+        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
+        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
+        "repos_url": "https://api.github.com/users/rhiaro/repos",
+        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "rhiaro",
+        "id": 466229,
+        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rhiaro",
+        "html_url": "https://github.com/rhiaro",
+        "followers_url": "https://api.github.com/users/rhiaro/followers",
+        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
+        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
+        "repos_url": "https://api.github.com/users/rhiaro/repos",
+        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "url": "https://api.github.com/repos/alephdata/memorious/commits/68d3e3bc8e07c8b5044c96670c90f8232b60301e",
+          "html_url": "https://github.com/alephdata/memorious/commit/68d3e3bc8e07c8b5044c96670c90f8232b60301e",
+          "sha": "68d3e3bc8e07c8b5044c96670c90f8232b60301e"
+        }
+      ],
+      "repository": {
+        "id": 102375291,
+        "name": "memorious",
+        "full_name": "alephdata/memorious",
+        "owner": {
+          "login": "alephdata",
+          "id": 26249985,
+          "avatar_url": "https://avatars0.githubusercontent.com/u/26249985?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/alephdata",
+          "html_url": "https://github.com/alephdata",
+          "followers_url": "https://api.github.com/users/alephdata/followers",
+          "following_url": "https://api.github.com/users/alephdata/following{/other_user}",
+          "gists_url": "https://api.github.com/users/alephdata/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/alephdata/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/alephdata/subscriptions",
+          "organizations_url": "https://api.github.com/users/alephdata/orgs",
+          "repos_url": "https://api.github.com/users/alephdata/repos",
+          "events_url": "https://api.github.com/users/alephdata/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/alephdata/received_events",
+          "type": "Organization",
+          "site_admin": false
+        },
+        "private": false,
+        "html_url": "https://github.com/alephdata/memorious",
+        "description": "Distributed crawling framework for documents and structured data.",
+        "fork": false,
+        "url": "https://api.github.com/repos/alephdata/memorious",
+        "forks_url": "https://api.github.com/repos/alephdata/memorious/forks",
+        "keys_url": "https://api.github.com/repos/alephdata/memorious/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/alephdata/memorious/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/alephdata/memorious/teams",
+        "hooks_url": "https://api.github.com/repos/alephdata/memorious/hooks",
+        "issue_events_url": "https://api.github.com/repos/alephdata/memorious/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/alephdata/memorious/events",
+        "assignees_url": "https://api.github.com/repos/alephdata/memorious/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/alephdata/memorious/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/alephdata/memorious/tags",
+        "blobs_url": "https://api.github.com/repos/alephdata/memorious/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/alephdata/memorious/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/alephdata/memorious/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/alephdata/memorious/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/alephdata/memorious/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/alephdata/memorious/languages",
+        "stargazers_url": "https://api.github.com/repos/alephdata/memorious/stargazers",
+        "contributors_url": "https://api.github.com/repos/alephdata/memorious/contributors",
+        "subscribers_url": "https://api.github.com/repos/alephdata/memorious/subscribers",
+        "subscription_url": "https://api.github.com/repos/alephdata/memorious/subscription",
+        "commits_url": "https://api.github.com/repos/alephdata/memorious/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/alephdata/memorious/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/alephdata/memorious/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/alephdata/memorious/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/alephdata/memorious/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/alephdata/memorious/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/alephdata/memorious/merges",
+        "archive_url": "https://api.github.com/repos/alephdata/memorious/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/alephdata/memorious/downloads",
+        "issues_url": "https://api.github.com/repos/alephdata/memorious/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/alephdata/memorious/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/alephdata/memorious/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/alephdata/memorious/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/alephdata/memorious/labels{/name}",
+        "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
+      },
+      "score": 16.196508
+    },
+    {
+      "url": "https://api.github.com/repos/alephdata/memorious/commits/68d3e3bc8e07c8b5044c96670c90f8232b60301e",
+      "sha": "68d3e3bc8e07c8b5044c96670c90f8232b60301e",
+      "html_url": "https://github.com/alephdata/memorious/commit/68d3e3bc8e07c8b5044c96670c90f8232b60301e",
+      "comments_url": "https://api.github.com/repos/alephdata/memorious/commits/68d3e3bc8e07c8b5044c96670c90f8232b60301e/comments",
+      "commit": {
+        "url": "https://api.github.com/repos/alephdata/memorious/git/commits/68d3e3bc8e07c8b5044c96670c90f8232b60301e",
+        "author": {
+          "date": "2017-12-08T09:58:05.000+01:00",
+          "name": "rhiaro",
+          "email": "amy@rhiaro.co.uk"
+        },
+        "committer": {
+          "date": "2017-12-08T09:58:05.000+01:00",
+          "name": "rhiaro",
+          "email": "amy@rhiaro.co.uk"
+        },
+        "message": "Needs category for aleph, defaults to 'scrape'",
+        "tree": {
+          "url": "https://api.github.com/repos/alephdata/memorious/git/trees/c270e0d12db95e321a6e267a08ce704e540c7d65",
+          "sha": "c270e0d12db95e321a6e267a08ce704e540c7d65"
+        },
+        "comment_count": 0
+      },
+      "author": {
+        "login": "rhiaro",
+        "id": 466229,
+        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rhiaro",
+        "html_url": "https://github.com/rhiaro",
+        "followers_url": "https://api.github.com/users/rhiaro/followers",
+        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
+        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
+        "repos_url": "https://api.github.com/users/rhiaro/repos",
+        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "rhiaro",
+        "id": 466229,
+        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rhiaro",
+        "html_url": "https://github.com/rhiaro",
+        "followers_url": "https://api.github.com/users/rhiaro/followers",
+        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
+        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
+        "repos_url": "https://api.github.com/users/rhiaro/repos",
+        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "url": "https://api.github.com/repos/alephdata/memorious/commits/fdf0ddb7b246ab95b526da5242fbbc4243d25e18",
+          "html_url": "https://github.com/alephdata/memorious/commit/fdf0ddb7b246ab95b526da5242fbbc4243d25e18",
+          "sha": "fdf0ddb7b246ab95b526da5242fbbc4243d25e18"
+        }
+      ],
+      "repository": {
+        "id": 102375291,
+        "name": "memorious",
+        "full_name": "alephdata/memorious",
+        "owner": {
+          "login": "alephdata",
+          "id": 26249985,
+          "avatar_url": "https://avatars0.githubusercontent.com/u/26249985?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/alephdata",
+          "html_url": "https://github.com/alephdata",
+          "followers_url": "https://api.github.com/users/alephdata/followers",
+          "following_url": "https://api.github.com/users/alephdata/following{/other_user}",
+          "gists_url": "https://api.github.com/users/alephdata/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/alephdata/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/alephdata/subscriptions",
+          "organizations_url": "https://api.github.com/users/alephdata/orgs",
+          "repos_url": "https://api.github.com/users/alephdata/repos",
+          "events_url": "https://api.github.com/users/alephdata/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/alephdata/received_events",
+          "type": "Organization",
+          "site_admin": false
+        },
+        "private": false,
+        "html_url": "https://github.com/alephdata/memorious",
+        "description": "Distributed crawling framework for documents and structured data.",
+        "fork": false,
+        "url": "https://api.github.com/repos/alephdata/memorious",
+        "forks_url": "https://api.github.com/repos/alephdata/memorious/forks",
+        "keys_url": "https://api.github.com/repos/alephdata/memorious/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/alephdata/memorious/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/alephdata/memorious/teams",
+        "hooks_url": "https://api.github.com/repos/alephdata/memorious/hooks",
+        "issue_events_url": "https://api.github.com/repos/alephdata/memorious/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/alephdata/memorious/events",
+        "assignees_url": "https://api.github.com/repos/alephdata/memorious/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/alephdata/memorious/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/alephdata/memorious/tags",
+        "blobs_url": "https://api.github.com/repos/alephdata/memorious/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/alephdata/memorious/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/alephdata/memorious/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/alephdata/memorious/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/alephdata/memorious/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/alephdata/memorious/languages",
+        "stargazers_url": "https://api.github.com/repos/alephdata/memorious/stargazers",
+        "contributors_url": "https://api.github.com/repos/alephdata/memorious/contributors",
+        "subscribers_url": "https://api.github.com/repos/alephdata/memorious/subscribers",
+        "subscription_url": "https://api.github.com/repos/alephdata/memorious/subscription",
+        "commits_url": "https://api.github.com/repos/alephdata/memorious/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/alephdata/memorious/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/alephdata/memorious/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/alephdata/memorious/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/alephdata/memorious/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/alephdata/memorious/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/alephdata/memorious/merges",
+        "archive_url": "https://api.github.com/repos/alephdata/memorious/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/alephdata/memorious/downloads",
+        "issues_url": "https://api.github.com/repos/alephdata/memorious/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/alephdata/memorious/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/alephdata/memorious/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/alephdata/memorious/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/alephdata/memorious/labels{/name}",
+        "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
+      },
+      "score": 16.196508
     },
     {
       "url": "https://api.github.com/repos/alephdata/memorious/commits/e7a2212a2c6ca69b4ec8295ef0d64ea8ebaff4ab",
@@ -2312,7 +2040,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.204924
+      "score": 16.196508
     },
     {
       "url": "https://api.github.com/repos/alephdata/memorious/commits/4c7dcff753d80a6eaa542565846b37b2a362488d",
@@ -2448,7 +2176,279 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.204924
+      "score": 16.196508
+    },
+    {
+      "url": "https://api.github.com/repos/alephdata/memorious/commits/24d72cca18bad42e395e3d002e729e4d726db17a",
+      "sha": "24d72cca18bad42e395e3d002e729e4d726db17a",
+      "html_url": "https://github.com/alephdata/memorious/commit/24d72cca18bad42e395e3d002e729e4d726db17a",
+      "comments_url": "https://api.github.com/repos/alephdata/memorious/commits/24d72cca18bad42e395e3d002e729e4d726db17a/comments",
+      "commit": {
+        "url": "https://api.github.com/repos/alephdata/memorious/git/commits/24d72cca18bad42e395e3d002e729e4d726db17a",
+        "author": {
+          "date": "2017-12-11T17:10:14.000+01:00",
+          "name": "rhiaro",
+          "email": "amy@rhiaro.co.uk"
+        },
+        "committer": {
+          "date": "2017-12-11T17:10:14.000+01:00",
+          "name": "rhiaro",
+          "email": "amy@rhiaro.co.uk"
+        },
+        "message": "XPaths for where to parse. Fixes #10",
+        "tree": {
+          "url": "https://api.github.com/repos/alephdata/memorious/git/trees/acaf2c8a32d1e09ab5148882532f4c5938f365b5",
+          "sha": "acaf2c8a32d1e09ab5148882532f4c5938f365b5"
+        },
+        "comment_count": 0
+      },
+      "author": {
+        "login": "rhiaro",
+        "id": 466229,
+        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rhiaro",
+        "html_url": "https://github.com/rhiaro",
+        "followers_url": "https://api.github.com/users/rhiaro/followers",
+        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
+        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
+        "repos_url": "https://api.github.com/users/rhiaro/repos",
+        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "rhiaro",
+        "id": 466229,
+        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rhiaro",
+        "html_url": "https://github.com/rhiaro",
+        "followers_url": "https://api.github.com/users/rhiaro/followers",
+        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
+        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
+        "repos_url": "https://api.github.com/users/rhiaro/repos",
+        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "url": "https://api.github.com/repos/alephdata/memorious/commits/e7a2212a2c6ca69b4ec8295ef0d64ea8ebaff4ab",
+          "html_url": "https://github.com/alephdata/memorious/commit/e7a2212a2c6ca69b4ec8295ef0d64ea8ebaff4ab",
+          "sha": "e7a2212a2c6ca69b4ec8295ef0d64ea8ebaff4ab"
+        }
+      ],
+      "repository": {
+        "id": 102375291,
+        "name": "memorious",
+        "full_name": "alephdata/memorious",
+        "owner": {
+          "login": "alephdata",
+          "id": 26249985,
+          "avatar_url": "https://avatars0.githubusercontent.com/u/26249985?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/alephdata",
+          "html_url": "https://github.com/alephdata",
+          "followers_url": "https://api.github.com/users/alephdata/followers",
+          "following_url": "https://api.github.com/users/alephdata/following{/other_user}",
+          "gists_url": "https://api.github.com/users/alephdata/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/alephdata/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/alephdata/subscriptions",
+          "organizations_url": "https://api.github.com/users/alephdata/orgs",
+          "repos_url": "https://api.github.com/users/alephdata/repos",
+          "events_url": "https://api.github.com/users/alephdata/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/alephdata/received_events",
+          "type": "Organization",
+          "site_admin": false
+        },
+        "private": false,
+        "html_url": "https://github.com/alephdata/memorious",
+        "description": "Distributed crawling framework for documents and structured data.",
+        "fork": false,
+        "url": "https://api.github.com/repos/alephdata/memorious",
+        "forks_url": "https://api.github.com/repos/alephdata/memorious/forks",
+        "keys_url": "https://api.github.com/repos/alephdata/memorious/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/alephdata/memorious/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/alephdata/memorious/teams",
+        "hooks_url": "https://api.github.com/repos/alephdata/memorious/hooks",
+        "issue_events_url": "https://api.github.com/repos/alephdata/memorious/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/alephdata/memorious/events",
+        "assignees_url": "https://api.github.com/repos/alephdata/memorious/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/alephdata/memorious/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/alephdata/memorious/tags",
+        "blobs_url": "https://api.github.com/repos/alephdata/memorious/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/alephdata/memorious/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/alephdata/memorious/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/alephdata/memorious/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/alephdata/memorious/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/alephdata/memorious/languages",
+        "stargazers_url": "https://api.github.com/repos/alephdata/memorious/stargazers",
+        "contributors_url": "https://api.github.com/repos/alephdata/memorious/contributors",
+        "subscribers_url": "https://api.github.com/repos/alephdata/memorious/subscribers",
+        "subscription_url": "https://api.github.com/repos/alephdata/memorious/subscription",
+        "commits_url": "https://api.github.com/repos/alephdata/memorious/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/alephdata/memorious/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/alephdata/memorious/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/alephdata/memorious/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/alephdata/memorious/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/alephdata/memorious/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/alephdata/memorious/merges",
+        "archive_url": "https://api.github.com/repos/alephdata/memorious/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/alephdata/memorious/downloads",
+        "issues_url": "https://api.github.com/repos/alephdata/memorious/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/alephdata/memorious/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/alephdata/memorious/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/alephdata/memorious/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/alephdata/memorious/labels{/name}",
+        "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
+      },
+      "score": 16.196508
+    },
+    {
+      "url": "https://api.github.com/repos/alephdata/memorious/commits/45f2bb8136f0ecbd9c8050ad0ce09d4ce38943d5",
+      "sha": "45f2bb8136f0ecbd9c8050ad0ce09d4ce38943d5",
+      "html_url": "https://github.com/alephdata/memorious/commit/45f2bb8136f0ecbd9c8050ad0ce09d4ce38943d5",
+      "comments_url": "https://api.github.com/repos/alephdata/memorious/commits/45f2bb8136f0ecbd9c8050ad0ce09d4ce38943d5/comments",
+      "commit": {
+        "url": "https://api.github.com/repos/alephdata/memorious/git/commits/45f2bb8136f0ecbd9c8050ad0ce09d4ce38943d5",
+        "author": {
+          "date": "2017-12-11T17:10:39.000+01:00",
+          "name": "rhiaro",
+          "email": "amy@rhiaro.co.uk"
+        },
+        "committer": {
+          "date": "2017-12-11T17:10:39.000+01:00",
+          "name": "rhiaro",
+          "email": "amy@rhiaro.co.uk"
+        },
+        "message": "Sample crawler with xpaths",
+        "tree": {
+          "url": "https://api.github.com/repos/alephdata/memorious/git/trees/51e18e80401f4bae7a0890da4a1ad3d9e49d5834",
+          "sha": "51e18e80401f4bae7a0890da4a1ad3d9e49d5834"
+        },
+        "comment_count": 0
+      },
+      "author": {
+        "login": "rhiaro",
+        "id": 466229,
+        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rhiaro",
+        "html_url": "https://github.com/rhiaro",
+        "followers_url": "https://api.github.com/users/rhiaro/followers",
+        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
+        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
+        "repos_url": "https://api.github.com/users/rhiaro/repos",
+        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "rhiaro",
+        "id": 466229,
+        "avatar_url": "https://avatars3.githubusercontent.com/u/466229?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rhiaro",
+        "html_url": "https://github.com/rhiaro",
+        "followers_url": "https://api.github.com/users/rhiaro/followers",
+        "following_url": "https://api.github.com/users/rhiaro/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rhiaro/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rhiaro/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rhiaro/subscriptions",
+        "organizations_url": "https://api.github.com/users/rhiaro/orgs",
+        "repos_url": "https://api.github.com/users/rhiaro/repos",
+        "events_url": "https://api.github.com/users/rhiaro/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rhiaro/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "url": "https://api.github.com/repos/alephdata/memorious/commits/24d72cca18bad42e395e3d002e729e4d726db17a",
+          "html_url": "https://github.com/alephdata/memorious/commit/24d72cca18bad42e395e3d002e729e4d726db17a",
+          "sha": "24d72cca18bad42e395e3d002e729e4d726db17a"
+        }
+      ],
+      "repository": {
+        "id": 102375291,
+        "name": "memorious",
+        "full_name": "alephdata/memorious",
+        "owner": {
+          "login": "alephdata",
+          "id": 26249985,
+          "avatar_url": "https://avatars0.githubusercontent.com/u/26249985?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/alephdata",
+          "html_url": "https://github.com/alephdata",
+          "followers_url": "https://api.github.com/users/alephdata/followers",
+          "following_url": "https://api.github.com/users/alephdata/following{/other_user}",
+          "gists_url": "https://api.github.com/users/alephdata/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/alephdata/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/alephdata/subscriptions",
+          "organizations_url": "https://api.github.com/users/alephdata/orgs",
+          "repos_url": "https://api.github.com/users/alephdata/repos",
+          "events_url": "https://api.github.com/users/alephdata/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/alephdata/received_events",
+          "type": "Organization",
+          "site_admin": false
+        },
+        "private": false,
+        "html_url": "https://github.com/alephdata/memorious",
+        "description": "Distributed crawling framework for documents and structured data.",
+        "fork": false,
+        "url": "https://api.github.com/repos/alephdata/memorious",
+        "forks_url": "https://api.github.com/repos/alephdata/memorious/forks",
+        "keys_url": "https://api.github.com/repos/alephdata/memorious/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/alephdata/memorious/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/alephdata/memorious/teams",
+        "hooks_url": "https://api.github.com/repos/alephdata/memorious/hooks",
+        "issue_events_url": "https://api.github.com/repos/alephdata/memorious/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/alephdata/memorious/events",
+        "assignees_url": "https://api.github.com/repos/alephdata/memorious/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/alephdata/memorious/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/alephdata/memorious/tags",
+        "blobs_url": "https://api.github.com/repos/alephdata/memorious/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/alephdata/memorious/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/alephdata/memorious/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/alephdata/memorious/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/alephdata/memorious/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/alephdata/memorious/languages",
+        "stargazers_url": "https://api.github.com/repos/alephdata/memorious/stargazers",
+        "contributors_url": "https://api.github.com/repos/alephdata/memorious/contributors",
+        "subscribers_url": "https://api.github.com/repos/alephdata/memorious/subscribers",
+        "subscription_url": "https://api.github.com/repos/alephdata/memorious/subscription",
+        "commits_url": "https://api.github.com/repos/alephdata/memorious/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/alephdata/memorious/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/alephdata/memorious/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/alephdata/memorious/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/alephdata/memorious/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/alephdata/memorious/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/alephdata/memorious/merges",
+        "archive_url": "https://api.github.com/repos/alephdata/memorious/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/alephdata/memorious/downloads",
+        "issues_url": "https://api.github.com/repos/alephdata/memorious/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/alephdata/memorious/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/alephdata/memorious/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/alephdata/memorious/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/alephdata/memorious/labels{/name}",
+        "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
+      },
+      "score": 16.196508
     },
     {
       "url": "https://api.github.com/repos/alephdata/memorious/commits/f01ba4d09f342757ce82a22239e8fe024dd3b16e",
@@ -2584,7 +2584,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.204924
+      "score": 16.196508
     },
     {
       "url": "https://api.github.com/repos/alephdata/memorious/commits/3c319430a6852f8120bda95125dbcc1fc41786d9",
@@ -2720,7 +2720,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.204924
+      "score": 16.196508
     },
     {
       "url": "https://api.github.com/repos/alephdata/memorious/commits/03aa5b8c7418671d51b280c2c9d5fa18a1ae72ab",
@@ -2856,7 +2856,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.204924
+      "score": 16.196508
     },
     {
       "url": "https://api.github.com/repos/rhiaro/ofthemoon/commits/2b4d1be435f7b3f134eb70e7319512be6f092c31",
@@ -2992,7 +2992,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/ofthemoon/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/ofthemoon/deployments"
       },
-      "score": 15.972473
+      "score": 15.968055
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/76e3d072fdfe1b70d4fff847fa1455a8d047adba",
@@ -3128,7 +3128,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 15.909104
+      "score": 15.90907
     },
     {
       "url": "https://api.github.com/repos/rhiaro/sloph/commits/28f9ccc39e8ba417597f20b5eb96184cb10cb657",
@@ -3264,7 +3264,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/sloph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/sloph/deployments"
       },
-      "score": 14.527575
+      "score": 14.52344
     },
     {
       "url": "https://api.github.com/repos/rhiaro/sloph/commits/c1a61245755308ffd040904b6dc6f8b6b35f4295",
@@ -3400,7 +3400,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/sloph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/sloph/deployments"
       },
-      "score": 14.527575
+      "score": 14.52344
     },
     {
       "url": "https://api.github.com/repos/rhiaro/sloph/commits/fd9e5a70ae0100fbe99685f5e8434995a9d973f1",
@@ -3536,7 +3536,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/sloph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/sloph/deployments"
       },
-      "score": 14.527575
+      "score": 14.52344
     },
     {
       "url": "https://api.github.com/repos/rhiaro/sloph/commits/8856e0c50d165c429bab75c53ebde94bc56e9576",
@@ -3672,7 +3672,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/sloph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/sloph/deployments"
       },
-      "score": 14.527575
+      "score": 14.52344
     },
     {
       "url": "https://api.github.com/repos/rhiaro/sloph/commits/381fe8360efe4e2360e0dc1aa766e944b70b3991",
@@ -3808,7 +3808,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/sloph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/sloph/deployments"
       },
-      "score": 14.527575
+      "score": 14.52344
     },
     {
       "url": "https://api.github.com/repos/rhiaro/sloph/commits/76b8dfc3f511ae9de498b9dc9204f7256d4e09ee",
@@ -3944,7 +3944,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/sloph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/sloph/deployments"
       },
-      "score": 14.527575
+      "score": 14.52344
     },
     {
       "url": "https://api.github.com/repos/rhiaro/sloph/commits/d6049efe64a88a89ca40a192794a1c4382387ef6",
@@ -4080,7 +4080,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/sloph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/sloph/deployments"
       },
-      "score": 14.527575
+      "score": 14.52344
     }
   ]
 }
