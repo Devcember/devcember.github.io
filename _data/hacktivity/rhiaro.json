@@ -3128,7 +3128,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 15.908995
+      "score": 15.909104
     },
     {
       "url": "https://api.github.com/repos/rhiaro/sloph/commits/28f9ccc39e8ba417597f20b5eb96184cb10cb657",
