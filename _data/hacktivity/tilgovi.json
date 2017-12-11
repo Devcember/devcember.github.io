@@ -1359,7 +1359,7 @@
         "releases_url": "https://api.github.com/repos/eastbaydsa/handbook/releases{/id}",
         "deployments_url": "https://api.github.com/repos/eastbaydsa/handbook/deployments"
       },
-      "score": 12.131853
+      "score": 12.131855
     }
   ]
 }
