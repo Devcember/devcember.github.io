@@ -1,6 +1,6 @@
 {
-  "total_count": 8,
-  "incomplete_results": true,
+  "total_count": 9,
+  "incomplete_results": false,
   "items": [
     {
       "url": "https://api.github.com/repos/benoitc/gunicorn/commits/cb2f47183153368b70b9c06d14e43a4bf6ac7d92",
@@ -136,7 +136,7 @@
         "releases_url": "https://api.github.com/repos/benoitc/gunicorn/releases{/id}",
         "deployments_url": "https://api.github.com/repos/benoitc/gunicorn/deployments"
       },
-      "score": 14.430979
+      "score": 14.430988
     },
     {
       "url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/commits/5e9399a247c44ab984263ac2d37d90243e968f36",
@@ -674,7 +674,7 @@
         "releases_url": "https://api.github.com/repos/apache/incubator-annotator/releases{/id}",
         "deployments_url": "https://api.github.com/repos/apache/incubator-annotator/deployments"
       },
-      "score": 12.831864
+      "score": 12.831865
     },
     {
       "url": "https://api.github.com/repos/apache/incubator-annotator/commits/bf996dc9c59a0724bbd2ce3d8903138fd8119acd",
@@ -810,7 +810,7 @@
         "releases_url": "https://api.github.com/repos/apache/incubator-annotator/releases{/id}",
         "deployments_url": "https://api.github.com/repos/apache/incubator-annotator/deployments"
       },
-      "score": 12.831864
+      "score": 12.831865
     },
     {
       "url": "https://api.github.com/repos/apache/incubator-annotator/commits/b65e924cbaff9956649f8c9f4276a33135b733aa",
@@ -946,7 +946,7 @@
         "releases_url": "https://api.github.com/repos/apache/incubator-annotator/releases{/id}",
         "deployments_url": "https://api.github.com/repos/apache/incubator-annotator/deployments"
       },
-      "score": 12.831864
+      "score": 12.831865
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/a1f51b99c4bc085b3712f4b34d4eebeaef1410e8",
@@ -1082,7 +1082,143 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 12.226693
+      "score": 12.2269745
+    },
+    {
+      "url": "https://api.github.com/repos/eastbaydsa/handbook/commits/07861454c5c71c0a485ef83010b13aff01f25610",
+      "sha": "07861454c5c71c0a485ef83010b13aff01f25610",
+      "html_url": "https://github.com/eastbaydsa/handbook/commit/07861454c5c71c0a485ef83010b13aff01f25610",
+      "comments_url": "https://api.github.com/repos/eastbaydsa/handbook/commits/07861454c5c71c0a485ef83010b13aff01f25610/comments",
+      "commit": {
+        "url": "https://api.github.com/repos/eastbaydsa/handbook/git/commits/07861454c5c71c0a485ef83010b13aff01f25610",
+        "author": {
+          "date": "2017-12-10T15:40:06.000-08:00",
+          "name": "Randall Leeds",
+          "email": "randall@bleeds.info"
+        },
+        "committer": {
+          "date": "2017-12-10T15:40:06.000-08:00",
+          "name": "Randall Leeds",
+          "email": "randall@bleeds.info"
+        },
+        "message": "Set page template title",
+        "tree": {
+          "url": "https://api.github.com/repos/eastbaydsa/handbook/git/trees/ba5c4bfcf9a68ae104c35b9792fc0163ab885756",
+          "sha": "ba5c4bfcf9a68ae104c35b9792fc0163ab885756"
+        },
+        "comment_count": 0
+      },
+      "author": {
+        "login": "tilgovi",
+        "id": 20818,
+        "avatar_url": "https://avatars3.githubusercontent.com/u/20818?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/tilgovi",
+        "html_url": "https://github.com/tilgovi",
+        "followers_url": "https://api.github.com/users/tilgovi/followers",
+        "following_url": "https://api.github.com/users/tilgovi/following{/other_user}",
+        "gists_url": "https://api.github.com/users/tilgovi/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/tilgovi/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/tilgovi/subscriptions",
+        "organizations_url": "https://api.github.com/users/tilgovi/orgs",
+        "repos_url": "https://api.github.com/users/tilgovi/repos",
+        "events_url": "https://api.github.com/users/tilgovi/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/tilgovi/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "tilgovi",
+        "id": 20818,
+        "avatar_url": "https://avatars3.githubusercontent.com/u/20818?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/tilgovi",
+        "html_url": "https://github.com/tilgovi",
+        "followers_url": "https://api.github.com/users/tilgovi/followers",
+        "following_url": "https://api.github.com/users/tilgovi/following{/other_user}",
+        "gists_url": "https://api.github.com/users/tilgovi/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/tilgovi/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/tilgovi/subscriptions",
+        "organizations_url": "https://api.github.com/users/tilgovi/orgs",
+        "repos_url": "https://api.github.com/users/tilgovi/repos",
+        "events_url": "https://api.github.com/users/tilgovi/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/tilgovi/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "url": "https://api.github.com/repos/eastbaydsa/handbook/commits/377685c60a7554aab2074c2327e5b2b8c2aba633",
+          "html_url": "https://github.com/eastbaydsa/handbook/commit/377685c60a7554aab2074c2327e5b2b8c2aba633",
+          "sha": "377685c60a7554aab2074c2327e5b2b8c2aba633"
+        }
+      ],
+      "repository": {
+        "id": 112890192,
+        "name": "handbook",
+        "full_name": "eastbaydsa/handbook",
+        "owner": {
+          "login": "eastbaydsa",
+          "id": 25786580,
+          "avatar_url": "https://avatars1.githubusercontent.com/u/25786580?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/eastbaydsa",
+          "html_url": "https://github.com/eastbaydsa",
+          "followers_url": "https://api.github.com/users/eastbaydsa/followers",
+          "following_url": "https://api.github.com/users/eastbaydsa/following{/other_user}",
+          "gists_url": "https://api.github.com/users/eastbaydsa/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/eastbaydsa/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/eastbaydsa/subscriptions",
+          "organizations_url": "https://api.github.com/users/eastbaydsa/orgs",
+          "repos_url": "https://api.github.com/users/eastbaydsa/repos",
+          "events_url": "https://api.github.com/users/eastbaydsa/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/eastbaydsa/received_events",
+          "type": "Organization",
+          "site_admin": false
+        },
+        "private": false,
+        "html_url": "https://github.com/eastbaydsa/handbook",
+        "description": "DSA New Member Handbook",
+        "fork": false,
+        "url": "https://api.github.com/repos/eastbaydsa/handbook",
+        "forks_url": "https://api.github.com/repos/eastbaydsa/handbook/forks",
+        "keys_url": "https://api.github.com/repos/eastbaydsa/handbook/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/eastbaydsa/handbook/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/eastbaydsa/handbook/teams",
+        "hooks_url": "https://api.github.com/repos/eastbaydsa/handbook/hooks",
+        "issue_events_url": "https://api.github.com/repos/eastbaydsa/handbook/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/eastbaydsa/handbook/events",
+        "assignees_url": "https://api.github.com/repos/eastbaydsa/handbook/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/eastbaydsa/handbook/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/eastbaydsa/handbook/tags",
+        "blobs_url": "https://api.github.com/repos/eastbaydsa/handbook/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/eastbaydsa/handbook/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/eastbaydsa/handbook/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/eastbaydsa/handbook/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/eastbaydsa/handbook/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/eastbaydsa/handbook/languages",
+        "stargazers_url": "https://api.github.com/repos/eastbaydsa/handbook/stargazers",
+        "contributors_url": "https://api.github.com/repos/eastbaydsa/handbook/contributors",
+        "subscribers_url": "https://api.github.com/repos/eastbaydsa/handbook/subscribers",
+        "subscription_url": "https://api.github.com/repos/eastbaydsa/handbook/subscription",
+        "commits_url": "https://api.github.com/repos/eastbaydsa/handbook/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/eastbaydsa/handbook/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/eastbaydsa/handbook/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/eastbaydsa/handbook/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/eastbaydsa/handbook/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/eastbaydsa/handbook/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/eastbaydsa/handbook/merges",
+        "archive_url": "https://api.github.com/repos/eastbaydsa/handbook/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/eastbaydsa/handbook/downloads",
+        "issues_url": "https://api.github.com/repos/eastbaydsa/handbook/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/eastbaydsa/handbook/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/eastbaydsa/handbook/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/eastbaydsa/handbook/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/eastbaydsa/handbook/labels{/name}",
+        "releases_url": "https://api.github.com/repos/eastbaydsa/handbook/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/eastbaydsa/handbook/deployments"
+      },
+      "score": 12.131705
     }
   ]
 }
