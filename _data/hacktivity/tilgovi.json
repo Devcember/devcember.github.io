@@ -136,7 +136,7 @@
         "releases_url": "https://api.github.com/repos/benoitc/gunicorn/releases{/id}",
         "deployments_url": "https://api.github.com/repos/benoitc/gunicorn/deployments"
       },
-      "score": 14.429045
+      "score": 14.428737
     },
     {
       "url": "https://api.github.com/repos/benoitc/gunicorn/commits/953bb9e8d8449bc3951ee382684fc20e13bfa507",
@@ -277,7 +277,7 @@
         "releases_url": "https://api.github.com/repos/benoitc/gunicorn/releases{/id}",
         "deployments_url": "https://api.github.com/repos/benoitc/gunicorn/deployments"
       },
-      "score": 14.429045
+      "score": 14.428737
     },
     {
       "url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/commits/5e9399a247c44ab984263ac2d37d90243e968f36",
@@ -815,7 +815,7 @@
         "releases_url": "https://api.github.com/repos/apache/incubator-annotator/releases{/id}",
         "deployments_url": "https://api.github.com/repos/apache/incubator-annotator/deployments"
       },
-      "score": 12.831894
+      "score": 12.831914
     },
     {
       "url": "https://api.github.com/repos/apache/incubator-annotator/commits/bf996dc9c59a0724bbd2ce3d8903138fd8119acd",
@@ -951,7 +951,7 @@
         "releases_url": "https://api.github.com/repos/apache/incubator-annotator/releases{/id}",
         "deployments_url": "https://api.github.com/repos/apache/incubator-annotator/deployments"
       },
-      "score": 12.831894
+      "score": 12.831914
     },
     {
       "url": "https://api.github.com/repos/apache/incubator-annotator/commits/b65e924cbaff9956649f8c9f4276a33135b733aa",
@@ -1087,7 +1087,7 @@
         "releases_url": "https://api.github.com/repos/apache/incubator-annotator/releases{/id}",
         "deployments_url": "https://api.github.com/repos/apache/incubator-annotator/deployments"
       },
-      "score": 12.831894
+      "score": 12.831914
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/a1f51b99c4bc085b3712f4b34d4eebeaef1410e8",
@@ -1359,7 +1359,7 @@
         "releases_url": "https://api.github.com/repos/eastbaydsa/handbook/releases{/id}",
         "deployments_url": "https://api.github.com/repos/eastbaydsa/handbook/deployments"
       },
-      "score": 12.141563
+      "score": 12.13185
     }
   ]
 }
