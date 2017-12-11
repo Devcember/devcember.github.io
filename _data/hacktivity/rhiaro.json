@@ -136,7 +136,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/exactitude/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/exactitude/deployments"
       },
-      "score": 17.272377
+      "score": 17.271515
     },
     {
       "url": "https://api.github.com/repos/alephdata/exactitude/commits/c0f256ccc938be6de1e674536086f04cd7719142",
@@ -272,7 +272,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/exactitude/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/exactitude/deployments"
       },
-      "score": 17.272377
+      "score": 17.271515
     },
     {
       "url": "https://api.github.com/repos/alephdata/exactitude/commits/14055277c5cc967fdda26fe270884bd617f0a7dd",
@@ -408,7 +408,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/exactitude/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/exactitude/deployments"
       },
-      "score": 17.272377
+      "score": 17.271515
     },
     {
       "url": "https://api.github.com/repos/alephdata/exactitude/commits/1dd7f67de59026da8925c4534eedc7a7208a9270",
@@ -544,7 +544,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/exactitude/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/exactitude/deployments"
       },
-      "score": 17.272377
+      "score": 17.271515
     },
     {
       "url": "https://api.github.com/repos/alephdata/aleph/commits/0cdd27934be00b11514eb5c6bf11a91953a470cd",
