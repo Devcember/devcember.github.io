@@ -16,7 +16,7 @@
     "clean": "..\\..\\vendors\\semantic\\"
   },
   "permission": false,
-  "autoInstall": false,
+  "autoInstall": true,
   "rtl": false,
   "components": [
     "reset",
