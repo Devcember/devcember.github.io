@@ -14,6 +14,9 @@ $ npm i # the semantic-ui bits
 $ npm run build # once. not needed again unless customizing semantic.css
 $ npm run serve # which runs `bundle exec jekyll serve --incremental`
 ```
+
+Update the Hacktivity calendar using `npm run hacktivity`.
+
 # License
 
 MIT
