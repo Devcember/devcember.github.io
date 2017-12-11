@@ -136,7 +136,7 @@
         "releases_url": "https://api.github.com/repos/benoitc/gunicorn/releases{/id}",
         "deployments_url": "https://api.github.com/repos/benoitc/gunicorn/deployments"
       },
-      "score": 14.4312725
+      "score": 14.431273
     },
     {
       "url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/commits/5e9399a247c44ab984263ac2d37d90243e968f36",
@@ -1218,7 +1218,7 @@
         "releases_url": "https://api.github.com/repos/eastbaydsa/handbook/releases{/id}",
         "deployments_url": "https://api.github.com/repos/eastbaydsa/handbook/deployments"
       },
-      "score": 12.131691
+      "score": 12.131694
     }
   ]
 }

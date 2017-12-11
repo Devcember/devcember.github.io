@@ -2992,7 +2992,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/ofthemoon/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/ofthemoon/deployments"
       },
-      "score": 15.968044
+      "score": 15.9724655
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/76e3d072fdfe1b70d4fff847fa1455a8d047adba",
