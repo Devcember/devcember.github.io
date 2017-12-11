@@ -674,7 +674,7 @@
         "releases_url": "https://api.github.com/repos/apache/incubator-annotator/releases{/id}",
         "deployments_url": "https://api.github.com/repos/apache/incubator-annotator/deployments"
       },
-      "score": 12.831845
+      "score": 12.831862
     },
     {
       "url": "https://api.github.com/repos/apache/incubator-annotator/commits/bf996dc9c59a0724bbd2ce3d8903138fd8119acd",
@@ -810,7 +810,7 @@
         "releases_url": "https://api.github.com/repos/apache/incubator-annotator/releases{/id}",
         "deployments_url": "https://api.github.com/repos/apache/incubator-annotator/deployments"
       },
-      "score": 12.831845
+      "score": 12.831862
     },
     {
       "url": "https://api.github.com/repos/apache/incubator-annotator/commits/b65e924cbaff9956649f8c9f4276a33135b733aa",
@@ -946,7 +946,7 @@
         "releases_url": "https://api.github.com/repos/apache/incubator-annotator/releases{/id}",
         "deployments_url": "https://api.github.com/repos/apache/incubator-annotator/deployments"
       },
-      "score": 12.831845
+      "score": 12.831862
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/a1f51b99c4bc085b3712f4b34d4eebeaef1410e8",
@@ -1082,7 +1082,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 12.226445
+      "score": 12.226402
     },
     {
       "url": "https://api.github.com/repos/eastbaydsa/handbook/commits/07861454c5c71c0a485ef83010b13aff01f25610",
@@ -1218,7 +1218,7 @@
         "releases_url": "https://api.github.com/repos/eastbaydsa/handbook/releases{/id}",
         "deployments_url": "https://api.github.com/repos/eastbaydsa/handbook/deployments"
       },
-      "score": 12.141403
+      "score": 12.131703
     }
   ]
 }
