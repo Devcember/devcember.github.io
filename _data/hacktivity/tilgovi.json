@@ -1223,7 +1223,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 12.22712
+      "score": 12.22771
     },
     {
       "url": "https://api.github.com/repos/eastbaydsa/handbook/commits/07861454c5c71c0a485ef83010b13aff01f25610",
