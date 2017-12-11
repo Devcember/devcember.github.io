@@ -1082,7 +1082,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 12.227691
+      "score": 12.227693
     },
     {
       "url": "https://api.github.com/repos/eastbaydsa/handbook/commits/07861454c5c71c0a485ef83010b13aff01f25610",
@@ -1218,7 +1218,7 @@
         "releases_url": "https://api.github.com/repos/eastbaydsa/handbook/releases{/id}",
         "deployments_url": "https://api.github.com/repos/eastbaydsa/handbook/deployments"
       },
-      "score": 12.131845
+      "score": 12.141561
     }
   ]
 }
