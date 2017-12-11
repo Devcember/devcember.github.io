@@ -2992,7 +2992,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/ofthemoon/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/ofthemoon/deployments"
       },
-      "score": 15.972471
+      "score": 15.968055
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/76e3d072fdfe1b70d4fff847fa1455a8d047adba",
@@ -3128,7 +3128,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 15.908993
+      "score": 15.90891
     },
     {
       "url": "https://api.github.com/repos/rhiaro/sloph/commits/28f9ccc39e8ba417597f20b5eb96184cb10cb657",
@@ -3264,7 +3264,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/sloph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/sloph/deployments"
       },
-      "score": 14.527574
+      "score": 14.523438
     },
     {
       "url": "https://api.github.com/repos/rhiaro/sloph/commits/c1a61245755308ffd040904b6dc6f8b6b35f4295",
@@ -3400,7 +3400,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/sloph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/sloph/deployments"
       },
-      "score": 14.527574
+      "score": 14.523438
     },
     {
       "url": "https://api.github.com/repos/rhiaro/sloph/commits/fd9e5a70ae0100fbe99685f5e8434995a9d973f1",
@@ -3536,7 +3536,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/sloph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/sloph/deployments"
       },
-      "score": 14.527574
+      "score": 14.523438
     },
     {
       "url": "https://api.github.com/repos/rhiaro/sloph/commits/8856e0c50d165c429bab75c53ebde94bc56e9576",
@@ -3672,7 +3672,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/sloph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/sloph/deployments"
       },
-      "score": 14.527574
+      "score": 14.523438
     },
     {
       "url": "https://api.github.com/repos/rhiaro/sloph/commits/381fe8360efe4e2360e0dc1aa766e944b70b3991",
@@ -3808,7 +3808,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/sloph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/sloph/deployments"
       },
-      "score": 14.527574
+      "score": 14.523438
     },
     {
       "url": "https://api.github.com/repos/rhiaro/sloph/commits/76b8dfc3f511ae9de498b9dc9204f7256d4e09ee",
@@ -3944,7 +3944,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/sloph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/sloph/deployments"
       },
-      "score": 14.527574
+      "score": 14.523438
     },
     {
       "url": "https://api.github.com/repos/rhiaro/sloph/commits/d6049efe64a88a89ca40a192794a1c4382387ef6",
@@ -4080,7 +4080,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/sloph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/sloph/deployments"
       },
-      "score": 14.527574
+      "score": 14.523438
     }
   ]
 }
