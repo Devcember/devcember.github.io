@@ -1,7 +1,143 @@
 {
-  "total_count": 175,
+  "total_count": 176,
   "incomplete_results": false,
   "items": [
+    {
+      "url": "https://api.github.com/repos/dauwhe/html-first/commits/df9f1be1da0f61586ecc8c6b1bbdff493899670e",
+      "sha": "df9f1be1da0f61586ecc8c6b1bbdff493899670e",
+      "html_url": "https://github.com/dauwhe/html-first/commit/df9f1be1da0f61586ecc8c6b1bbdff493899670e",
+      "comments_url": "https://api.github.com/repos/dauwhe/html-first/commits/df9f1be1da0f61586ecc8c6b1bbdff493899670e/comments",
+      "commit": {
+        "url": "https://api.github.com/repos/dauwhe/html-first/git/commits/df9f1be1da0f61586ecc8c6b1bbdff493899670e",
+        "author": {
+          "date": "2017-12-12T15:37:41.000-05:00",
+          "name": "BigBlueHat",
+          "email": "byoung@bigbluehat.com"
+        },
+        "committer": {
+          "date": "2017-12-12T15:37:41.000-05:00",
+          "name": "GitHub",
+          "email": "noreply@github.com"
+        },
+        "message": "Use https for audiobook chapters from librevox",
+        "tree": {
+          "url": "https://api.github.com/repos/dauwhe/html-first/git/trees/5a2368908646957b01ccbd1393c4442831152fff",
+          "sha": "5a2368908646957b01ccbd1393c4442831152fff"
+        },
+        "comment_count": 0
+      },
+      "author": {
+        "login": "BigBlueHat",
+        "id": 43209,
+        "avatar_url": "https://avatars1.githubusercontent.com/u/43209?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/BigBlueHat",
+        "html_url": "https://github.com/BigBlueHat",
+        "followers_url": "https://api.github.com/users/BigBlueHat/followers",
+        "following_url": "https://api.github.com/users/BigBlueHat/following{/other_user}",
+        "gists_url": "https://api.github.com/users/BigBlueHat/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/BigBlueHat/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/BigBlueHat/subscriptions",
+        "organizations_url": "https://api.github.com/users/BigBlueHat/orgs",
+        "repos_url": "https://api.github.com/users/BigBlueHat/repos",
+        "events_url": "https://api.github.com/users/BigBlueHat/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/BigBlueHat/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "web-flow",
+        "id": 19864447,
+        "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/web-flow",
+        "html_url": "https://github.com/web-flow",
+        "followers_url": "https://api.github.com/users/web-flow/followers",
+        "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+        "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+        "organizations_url": "https://api.github.com/users/web-flow/orgs",
+        "repos_url": "https://api.github.com/users/web-flow/repos",
+        "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/web-flow/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "url": "https://api.github.com/repos/dauwhe/html-first/commits/7a04f6a1e379b7e3d29f1a5472dd94ffe982e8e5",
+          "html_url": "https://github.com/dauwhe/html-first/commit/7a04f6a1e379b7e3d29f1a5472dd94ffe982e8e5",
+          "sha": "7a04f6a1e379b7e3d29f1a5472dd94ffe982e8e5"
+        }
+      ],
+      "repository": {
+        "id": 100040219,
+        "name": "html-first",
+        "full_name": "dauwhe/html-first",
+        "owner": {
+          "login": "dauwhe",
+          "id": 5687700,
+          "avatar_url": "https://avatars1.githubusercontent.com/u/5687700?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/dauwhe",
+          "html_url": "https://github.com/dauwhe",
+          "followers_url": "https://api.github.com/users/dauwhe/followers",
+          "following_url": "https://api.github.com/users/dauwhe/following{/other_user}",
+          "gists_url": "https://api.github.com/users/dauwhe/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/dauwhe/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/dauwhe/subscriptions",
+          "organizations_url": "https://api.github.com/users/dauwhe/orgs",
+          "repos_url": "https://api.github.com/users/dauwhe/repos",
+          "events_url": "https://api.github.com/users/dauwhe/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/dauwhe/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "private": false,
+        "html_url": "https://github.com/dauwhe/html-first",
+        "description": "Proposal to use HTML TOC to bind together web publications",
+        "fork": false,
+        "url": "https://api.github.com/repos/dauwhe/html-first",
+        "forks_url": "https://api.github.com/repos/dauwhe/html-first/forks",
+        "keys_url": "https://api.github.com/repos/dauwhe/html-first/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/dauwhe/html-first/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/dauwhe/html-first/teams",
+        "hooks_url": "https://api.github.com/repos/dauwhe/html-first/hooks",
+        "issue_events_url": "https://api.github.com/repos/dauwhe/html-first/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/dauwhe/html-first/events",
+        "assignees_url": "https://api.github.com/repos/dauwhe/html-first/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/dauwhe/html-first/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/dauwhe/html-first/tags",
+        "blobs_url": "https://api.github.com/repos/dauwhe/html-first/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/dauwhe/html-first/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/dauwhe/html-first/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/dauwhe/html-first/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/dauwhe/html-first/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/dauwhe/html-first/languages",
+        "stargazers_url": "https://api.github.com/repos/dauwhe/html-first/stargazers",
+        "contributors_url": "https://api.github.com/repos/dauwhe/html-first/contributors",
+        "subscribers_url": "https://api.github.com/repos/dauwhe/html-first/subscribers",
+        "subscription_url": "https://api.github.com/repos/dauwhe/html-first/subscription",
+        "commits_url": "https://api.github.com/repos/dauwhe/html-first/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/dauwhe/html-first/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/dauwhe/html-first/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/dauwhe/html-first/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/dauwhe/html-first/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/dauwhe/html-first/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/dauwhe/html-first/merges",
+        "archive_url": "https://api.github.com/repos/dauwhe/html-first/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/dauwhe/html-first/downloads",
+        "issues_url": "https://api.github.com/repos/dauwhe/html-first/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/dauwhe/html-first/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/dauwhe/html-first/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/dauwhe/html-first/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/dauwhe/html-first/labels{/name}",
+        "releases_url": "https://api.github.com/repos/dauwhe/html-first/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/dauwhe/html-first/deployments"
+      },
+      "score": 15.505299
+    },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/9932277e91afdb6cf22473aa35f82d0a1ccf6527",
       "sha": "9932277e91afdb6cf22473aa35f82d0a1ccf6527",
@@ -136,7 +272,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/c09676eae7af50b17b9e0d8650308692a63c5723",
@@ -272,7 +408,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/8541d3159f19a686f6d5217fe7e06d8fa500a31d",
@@ -408,7 +544,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/39062a9577ce80fd6c04f0f98bb0a6f3a2a5bf8e",
@@ -544,7 +680,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/1dd19d86dbeeccfd94b65065592646aeb259423b",
@@ -680,7 +816,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/de4344ab6f7fb735cd0c70ef5430a48ab50a2ddd",
@@ -816,7 +952,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/c9efda959f1a6881dc7806e942377f0a3404e657",
@@ -952,7 +1088,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/dc54026ae41547499f5e14007b7a10b577fcf0a8",
@@ -1088,7 +1224,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/6fbdba7639bd9ce998532a32a0e1eaaf3b2dad98",
@@ -1224,7 +1360,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/c118db79e2c0ae1c40033f7656d06e2eb08c320e",
@@ -1360,7 +1496,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/9a9732ebed871cc08c2992441b1ca964083dbc69",
@@ -1496,7 +1632,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/6b059bef7936991fc5465f95bd091ede3f9231a4",
@@ -1632,7 +1768,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/82e17688808a6798bee474e59b22d42d7d6df45b",
@@ -1768,7 +1904,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/815822684d89c110291f4fce54761d6b79269342",
@@ -1904,7 +2040,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/757e5fe8eafe5d2845f309dce9a03ef17f0a1563",
@@ -2040,7 +2176,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/ac863a7322cfd4226ae56c1d6c65d883e6be2aff",
@@ -2176,7 +2312,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/e157378547c35692df10ceda8fa3babb7ec7ea38",
@@ -2312,7 +2448,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/2d1e410486f7a41e5d7735a558c47cef25075f2b",
@@ -2448,7 +2584,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/fb5289deab07e3ad9f6225152149faaffe6d699f",
@@ -2584,7 +2720,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/7f03effdaf5f8bfb8e9207b60c928639a1f67428",
@@ -2720,7 +2856,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/44d5845a727aa539ea36a882b571b6dbc5a12b2f",
@@ -2856,7 +2992,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/6a9f3a490e7fe445080b62f2633405a14605cbe6",
@@ -2992,7 +3128,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/17a11da9b19973c787fdc9b467d1cfc9729386e0",
@@ -3133,7 +3269,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/0c30cd54ebbecae4d2664fd01c9c77a6da3b82f7",
@@ -3269,7 +3405,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/caa8ed1b5f0005dc76ebe805b9675f5765543977",
@@ -3405,7 +3541,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/ff8730c9432fb2461208bb47c0eeccc02de81823",
@@ -3541,7 +3677,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/5d01af9c4cf58f4a83adbccf4ed2d81f888c08a3",
@@ -3677,7 +3813,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/2e8bc75e71feed35753a263ee2c05e8543c1f975",
@@ -3813,7 +3949,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
+      "score": 14.430054
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/a9f1b40760cbeeb7d2701b2477ae1a3c535dfe18",
@@ -3949,143 +4085,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.425876
-    },
-    {
-      "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/147b23219168e44633a51c2a592a5d34b72cb1cf",
-      "sha": "147b23219168e44633a51c2a592a5d34b72cb1cf",
-      "html_url": "https://github.com/Devcember/devcember.github.io/commit/147b23219168e44633a51c2a592a5d34b72cb1cf",
-      "comments_url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/147b23219168e44633a51c2a592a5d34b72cb1cf/comments",
-      "commit": {
-        "url": "https://api.github.com/repos/Devcember/devcember.github.io/git/commits/147b23219168e44633a51c2a592a5d34b72cb1cf",
-        "author": {
-          "date": "2017-12-11T12:58:20.000-05:00",
-          "name": "Benjamin Young",
-          "email": "byoung2@wiley.com"
-        },
-        "committer": {
-          "date": "2017-12-11T12:58:20.000-05:00",
-          "name": "Benjamin Young",
-          "email": "byoung2@wiley.com"
-        },
-        "message": "Update README with hacktivity instructions",
-        "tree": {
-          "url": "https://api.github.com/repos/Devcember/devcember.github.io/git/trees/15b95687909f7be6f5b9d77e4ac4b37990c98014",
-          "sha": "15b95687909f7be6f5b9d77e4ac4b37990c98014"
-        },
-        "comment_count": 0
-      },
-      "author": {
-        "login": "BigBlueHat",
-        "id": 43209,
-        "avatar_url": "https://avatars1.githubusercontent.com/u/43209?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/BigBlueHat",
-        "html_url": "https://github.com/BigBlueHat",
-        "followers_url": "https://api.github.com/users/BigBlueHat/followers",
-        "following_url": "https://api.github.com/users/BigBlueHat/following{/other_user}",
-        "gists_url": "https://api.github.com/users/BigBlueHat/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/BigBlueHat/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/BigBlueHat/subscriptions",
-        "organizations_url": "https://api.github.com/users/BigBlueHat/orgs",
-        "repos_url": "https://api.github.com/users/BigBlueHat/repos",
-        "events_url": "https://api.github.com/users/BigBlueHat/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/BigBlueHat/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "committer": {
-        "login": "BigBlueHat",
-        "id": 43209,
-        "avatar_url": "https://avatars1.githubusercontent.com/u/43209?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/BigBlueHat",
-        "html_url": "https://github.com/BigBlueHat",
-        "followers_url": "https://api.github.com/users/BigBlueHat/followers",
-        "following_url": "https://api.github.com/users/BigBlueHat/following{/other_user}",
-        "gists_url": "https://api.github.com/users/BigBlueHat/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/BigBlueHat/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/BigBlueHat/subscriptions",
-        "organizations_url": "https://api.github.com/users/BigBlueHat/orgs",
-        "repos_url": "https://api.github.com/users/BigBlueHat/repos",
-        "events_url": "https://api.github.com/users/BigBlueHat/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/BigBlueHat/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "parents": [
-        {
-          "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/8fa6ccfa51d0699b9e0d2c1bcdd5b49810070234",
-          "html_url": "https://github.com/Devcember/devcember.github.io/commit/8fa6ccfa51d0699b9e0d2c1bcdd5b49810070234",
-          "sha": "8fa6ccfa51d0699b9e0d2c1bcdd5b49810070234"
-        }
-      ],
-      "repository": {
-        "id": 47222491,
-        "name": "devcember.github.io",
-        "full_name": "Devcember/devcember.github.io",
-        "owner": {
-          "login": "Devcember",
-          "id": 16108777,
-          "avatar_url": "https://avatars1.githubusercontent.com/u/16108777?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/Devcember",
-          "html_url": "https://github.com/Devcember",
-          "followers_url": "https://api.github.com/users/Devcember/followers",
-          "following_url": "https://api.github.com/users/Devcember/following{/other_user}",
-          "gists_url": "https://api.github.com/users/Devcember/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/Devcember/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/Devcember/subscriptions",
-          "organizations_url": "https://api.github.com/users/Devcember/orgs",
-          "repos_url": "https://api.github.com/users/Devcember/repos",
-          "events_url": "https://api.github.com/users/Devcember/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/Devcember/received_events",
-          "type": "Organization",
-          "site_admin": false
-        },
-        "private": false,
-        "html_url": "https://github.com/Devcember/devcember.github.io",
-        "description": "a gaudy celebration of web specification",
-        "fork": false,
-        "url": "https://api.github.com/repos/Devcember/devcember.github.io",
-        "forks_url": "https://api.github.com/repos/Devcember/devcember.github.io/forks",
-        "keys_url": "https://api.github.com/repos/Devcember/devcember.github.io/keys{/key_id}",
-        "collaborators_url": "https://api.github.com/repos/Devcember/devcember.github.io/collaborators{/collaborator}",
-        "teams_url": "https://api.github.com/repos/Devcember/devcember.github.io/teams",
-        "hooks_url": "https://api.github.com/repos/Devcember/devcember.github.io/hooks",
-        "issue_events_url": "https://api.github.com/repos/Devcember/devcember.github.io/issues/events{/number}",
-        "events_url": "https://api.github.com/repos/Devcember/devcember.github.io/events",
-        "assignees_url": "https://api.github.com/repos/Devcember/devcember.github.io/assignees{/user}",
-        "branches_url": "https://api.github.com/repos/Devcember/devcember.github.io/branches{/branch}",
-        "tags_url": "https://api.github.com/repos/Devcember/devcember.github.io/tags",
-        "blobs_url": "https://api.github.com/repos/Devcember/devcember.github.io/git/blobs{/sha}",
-        "git_tags_url": "https://api.github.com/repos/Devcember/devcember.github.io/git/tags{/sha}",
-        "git_refs_url": "https://api.github.com/repos/Devcember/devcember.github.io/git/refs{/sha}",
-        "trees_url": "https://api.github.com/repos/Devcember/devcember.github.io/git/trees{/sha}",
-        "statuses_url": "https://api.github.com/repos/Devcember/devcember.github.io/statuses/{sha}",
-        "languages_url": "https://api.github.com/repos/Devcember/devcember.github.io/languages",
-        "stargazers_url": "https://api.github.com/repos/Devcember/devcember.github.io/stargazers",
-        "contributors_url": "https://api.github.com/repos/Devcember/devcember.github.io/contributors",
-        "subscribers_url": "https://api.github.com/repos/Devcember/devcember.github.io/subscribers",
-        "subscription_url": "https://api.github.com/repos/Devcember/devcember.github.io/subscription",
-        "commits_url": "https://api.github.com/repos/Devcember/devcember.github.io/commits{/sha}",
-        "git_commits_url": "https://api.github.com/repos/Devcember/devcember.github.io/git/commits{/sha}",
-        "comments_url": "https://api.github.com/repos/Devcember/devcember.github.io/comments{/number}",
-        "issue_comment_url": "https://api.github.com/repos/Devcember/devcember.github.io/issues/comments{/number}",
-        "contents_url": "https://api.github.com/repos/Devcember/devcember.github.io/contents/{+path}",
-        "compare_url": "https://api.github.com/repos/Devcember/devcember.github.io/compare/{base}...{head}",
-        "merges_url": "https://api.github.com/repos/Devcember/devcember.github.io/merges",
-        "archive_url": "https://api.github.com/repos/Devcember/devcember.github.io/{archive_format}{/ref}",
-        "downloads_url": "https://api.github.com/repos/Devcember/devcember.github.io/downloads",
-        "issues_url": "https://api.github.com/repos/Devcember/devcember.github.io/issues{/number}",
-        "pulls_url": "https://api.github.com/repos/Devcember/devcember.github.io/pulls{/number}",
-        "milestones_url": "https://api.github.com/repos/Devcember/devcember.github.io/milestones{/number}",
-        "notifications_url": "https://api.github.com/repos/Devcember/devcember.github.io/notifications{?since,all,participating}",
-        "labels_url": "https://api.github.com/repos/Devcember/devcember.github.io/labels{/name}",
-        "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
-        "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
-      },
-      "score": 14.425876
+      "score": 14.430054
     }
   ]
 }
