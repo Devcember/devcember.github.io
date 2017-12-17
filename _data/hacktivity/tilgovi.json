@@ -3,6 +3,278 @@
   "incomplete_results": false,
   "items": [
     {
+      "url": "https://api.github.com/repos/benoitc/gunicorn/commits/cb2f47183153368b70b9c06d14e43a4bf6ac7d92",
+      "sha": "cb2f47183153368b70b9c06d14e43a4bf6ac7d92",
+      "html_url": "https://github.com/benoitc/gunicorn/commit/cb2f47183153368b70b9c06d14e43a4bf6ac7d92",
+      "comments_url": "https://api.github.com/repos/benoitc/gunicorn/commits/cb2f47183153368b70b9c06d14e43a4bf6ac7d92/comments",
+      "commit": {
+        "url": "https://api.github.com/repos/benoitc/gunicorn/git/commits/cb2f47183153368b70b9c06d14e43a4bf6ac7d92",
+        "author": {
+          "date": "2017-12-09T19:19:40.000-08:00",
+          "name": "Randall Leeds",
+          "email": "randall@bleeds.info"
+        },
+        "committer": {
+          "date": "2017-12-10T11:57:32.000-08:00",
+          "name": "Randall Leeds",
+          "email": "randall@bleeds.info"
+        },
+        "message": "Remove superfluous BytesIO allocation",
+        "tree": {
+          "url": "https://api.github.com/repos/benoitc/gunicorn/git/trees/e1f7bfa4468609983b57504a36c9e3f0d2c9489d",
+          "sha": "e1f7bfa4468609983b57504a36c9e3f0d2c9489d"
+        },
+        "comment_count": 0
+      },
+      "author": {
+        "login": "tilgovi",
+        "id": 20818,
+        "avatar_url": "https://avatars3.githubusercontent.com/u/20818?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/tilgovi",
+        "html_url": "https://github.com/tilgovi",
+        "followers_url": "https://api.github.com/users/tilgovi/followers",
+        "following_url": "https://api.github.com/users/tilgovi/following{/other_user}",
+        "gists_url": "https://api.github.com/users/tilgovi/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/tilgovi/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/tilgovi/subscriptions",
+        "organizations_url": "https://api.github.com/users/tilgovi/orgs",
+        "repos_url": "https://api.github.com/users/tilgovi/repos",
+        "events_url": "https://api.github.com/users/tilgovi/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/tilgovi/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "tilgovi",
+        "id": 20818,
+        "avatar_url": "https://avatars3.githubusercontent.com/u/20818?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/tilgovi",
+        "html_url": "https://github.com/tilgovi",
+        "followers_url": "https://api.github.com/users/tilgovi/followers",
+        "following_url": "https://api.github.com/users/tilgovi/following{/other_user}",
+        "gists_url": "https://api.github.com/users/tilgovi/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/tilgovi/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/tilgovi/subscriptions",
+        "organizations_url": "https://api.github.com/users/tilgovi/orgs",
+        "repos_url": "https://api.github.com/users/tilgovi/repos",
+        "events_url": "https://api.github.com/users/tilgovi/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/tilgovi/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "url": "https://api.github.com/repos/benoitc/gunicorn/commits/ad44552a03f55c0329296963916cbef9d35ffe4f",
+          "html_url": "https://github.com/benoitc/gunicorn/commit/ad44552a03f55c0329296963916cbef9d35ffe4f",
+          "sha": "ad44552a03f55c0329296963916cbef9d35ffe4f"
+        }
+      ],
+      "repository": {
+        "id": 390510,
+        "name": "gunicorn",
+        "full_name": "benoitc/gunicorn",
+        "owner": {
+          "login": "benoitc",
+          "id": 14498,
+          "avatar_url": "https://avatars1.githubusercontent.com/u/14498?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/benoitc",
+          "html_url": "https://github.com/benoitc",
+          "followers_url": "https://api.github.com/users/benoitc/followers",
+          "following_url": "https://api.github.com/users/benoitc/following{/other_user}",
+          "gists_url": "https://api.github.com/users/benoitc/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/benoitc/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/benoitc/subscriptions",
+          "organizations_url": "https://api.github.com/users/benoitc/orgs",
+          "repos_url": "https://api.github.com/users/benoitc/repos",
+          "events_url": "https://api.github.com/users/benoitc/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/benoitc/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "private": false,
+        "html_url": "https://github.com/benoitc/gunicorn",
+        "description": "gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.",
+        "fork": false,
+        "url": "https://api.github.com/repos/benoitc/gunicorn",
+        "forks_url": "https://api.github.com/repos/benoitc/gunicorn/forks",
+        "keys_url": "https://api.github.com/repos/benoitc/gunicorn/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/benoitc/gunicorn/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/benoitc/gunicorn/teams",
+        "hooks_url": "https://api.github.com/repos/benoitc/gunicorn/hooks",
+        "issue_events_url": "https://api.github.com/repos/benoitc/gunicorn/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/benoitc/gunicorn/events",
+        "assignees_url": "https://api.github.com/repos/benoitc/gunicorn/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/benoitc/gunicorn/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/benoitc/gunicorn/tags",
+        "blobs_url": "https://api.github.com/repos/benoitc/gunicorn/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/benoitc/gunicorn/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/benoitc/gunicorn/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/benoitc/gunicorn/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/benoitc/gunicorn/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/benoitc/gunicorn/languages",
+        "stargazers_url": "https://api.github.com/repos/benoitc/gunicorn/stargazers",
+        "contributors_url": "https://api.github.com/repos/benoitc/gunicorn/contributors",
+        "subscribers_url": "https://api.github.com/repos/benoitc/gunicorn/subscribers",
+        "subscription_url": "https://api.github.com/repos/benoitc/gunicorn/subscription",
+        "commits_url": "https://api.github.com/repos/benoitc/gunicorn/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/benoitc/gunicorn/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/benoitc/gunicorn/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/benoitc/gunicorn/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/benoitc/gunicorn/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/benoitc/gunicorn/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/benoitc/gunicorn/merges",
+        "archive_url": "https://api.github.com/repos/benoitc/gunicorn/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/benoitc/gunicorn/downloads",
+        "issues_url": "https://api.github.com/repos/benoitc/gunicorn/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/benoitc/gunicorn/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/benoitc/gunicorn/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/benoitc/gunicorn/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/benoitc/gunicorn/labels{/name}",
+        "releases_url": "https://api.github.com/repos/benoitc/gunicorn/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/benoitc/gunicorn/deployments"
+      },
+      "score": 14.434367
+    },
+    {
+      "url": "https://api.github.com/repos/remix/partridge/commits/69d8fe265b1aa19038c28622b10152768b47bb6b",
+      "sha": "69d8fe265b1aa19038c28622b10152768b47bb6b",
+      "html_url": "https://github.com/remix/partridge/commit/69d8fe265b1aa19038c28622b10152768b47bb6b",
+      "comments_url": "https://api.github.com/repos/remix/partridge/commits/69d8fe265b1aa19038c28622b10152768b47bb6b/comments",
+      "commit": {
+        "url": "https://api.github.com/repos/remix/partridge/git/commits/69d8fe265b1aa19038c28622b10152768b47bb6b",
+        "author": {
+          "date": "2017-12-15T17:34:39.000-08:00",
+          "name": "Randall Leeds",
+          "email": "randall@remix.com"
+        },
+        "committer": {
+          "date": "2017-12-15T17:35:28.000-08:00",
+          "name": "Randall Leeds",
+          "email": "randall@remix.com"
+        },
+        "message": "Use consistent RST section delimiters",
+        "tree": {
+          "url": "https://api.github.com/repos/remix/partridge/git/trees/f769f23250cc9020dcdad0d7d672ab8ea71b58a7",
+          "sha": "f769f23250cc9020dcdad0d7d672ab8ea71b58a7"
+        },
+        "comment_count": 0
+      },
+      "author": {
+        "login": "tilgovi",
+        "id": 20818,
+        "avatar_url": "https://avatars3.githubusercontent.com/u/20818?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/tilgovi",
+        "html_url": "https://github.com/tilgovi",
+        "followers_url": "https://api.github.com/users/tilgovi/followers",
+        "following_url": "https://api.github.com/users/tilgovi/following{/other_user}",
+        "gists_url": "https://api.github.com/users/tilgovi/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/tilgovi/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/tilgovi/subscriptions",
+        "organizations_url": "https://api.github.com/users/tilgovi/orgs",
+        "repos_url": "https://api.github.com/users/tilgovi/repos",
+        "events_url": "https://api.github.com/users/tilgovi/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/tilgovi/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "tilgovi",
+        "id": 20818,
+        "avatar_url": "https://avatars3.githubusercontent.com/u/20818?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/tilgovi",
+        "html_url": "https://github.com/tilgovi",
+        "followers_url": "https://api.github.com/users/tilgovi/followers",
+        "following_url": "https://api.github.com/users/tilgovi/following{/other_user}",
+        "gists_url": "https://api.github.com/users/tilgovi/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/tilgovi/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/tilgovi/subscriptions",
+        "organizations_url": "https://api.github.com/users/tilgovi/orgs",
+        "repos_url": "https://api.github.com/users/tilgovi/repos",
+        "events_url": "https://api.github.com/users/tilgovi/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/tilgovi/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "url": "https://api.github.com/repos/remix/partridge/commits/22e6ed6c1e23e3131fdc8feaaa5f68e9d09c9075",
+          "html_url": "https://github.com/remix/partridge/commit/22e6ed6c1e23e3131fdc8feaaa5f68e9d09c9075",
+          "sha": "22e6ed6c1e23e3131fdc8feaaa5f68e9d09c9075"
+        }
+      ],
+      "repository": {
+        "id": 102028727,
+        "name": "partridge",
+        "full_name": "remix/partridge",
+        "owner": {
+          "login": "remix",
+          "id": 8146335,
+          "avatar_url": "https://avatars0.githubusercontent.com/u/8146335?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/remix",
+          "html_url": "https://github.com/remix",
+          "followers_url": "https://api.github.com/users/remix/followers",
+          "following_url": "https://api.github.com/users/remix/following{/other_user}",
+          "gists_url": "https://api.github.com/users/remix/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/remix/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/remix/subscriptions",
+          "organizations_url": "https://api.github.com/users/remix/orgs",
+          "repos_url": "https://api.github.com/users/remix/repos",
+          "events_url": "https://api.github.com/users/remix/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/remix/received_events",
+          "type": "Organization",
+          "site_admin": false
+        },
+        "private": false,
+        "html_url": "https://github.com/remix/partridge",
+        "description": "A fast, forgiving GTFS reader built on pandas DataFrames",
+        "fork": false,
+        "url": "https://api.github.com/repos/remix/partridge",
+        "forks_url": "https://api.github.com/repos/remix/partridge/forks",
+        "keys_url": "https://api.github.com/repos/remix/partridge/keys{/key_id}",
+        "collaborators_url": "https://api.github.com/repos/remix/partridge/collaborators{/collaborator}",
+        "teams_url": "https://api.github.com/repos/remix/partridge/teams",
+        "hooks_url": "https://api.github.com/repos/remix/partridge/hooks",
+        "issue_events_url": "https://api.github.com/repos/remix/partridge/issues/events{/number}",
+        "events_url": "https://api.github.com/repos/remix/partridge/events",
+        "assignees_url": "https://api.github.com/repos/remix/partridge/assignees{/user}",
+        "branches_url": "https://api.github.com/repos/remix/partridge/branches{/branch}",
+        "tags_url": "https://api.github.com/repos/remix/partridge/tags",
+        "blobs_url": "https://api.github.com/repos/remix/partridge/git/blobs{/sha}",
+        "git_tags_url": "https://api.github.com/repos/remix/partridge/git/tags{/sha}",
+        "git_refs_url": "https://api.github.com/repos/remix/partridge/git/refs{/sha}",
+        "trees_url": "https://api.github.com/repos/remix/partridge/git/trees{/sha}",
+        "statuses_url": "https://api.github.com/repos/remix/partridge/statuses/{sha}",
+        "languages_url": "https://api.github.com/repos/remix/partridge/languages",
+        "stargazers_url": "https://api.github.com/repos/remix/partridge/stargazers",
+        "contributors_url": "https://api.github.com/repos/remix/partridge/contributors",
+        "subscribers_url": "https://api.github.com/repos/remix/partridge/subscribers",
+        "subscription_url": "https://api.github.com/repos/remix/partridge/subscription",
+        "commits_url": "https://api.github.com/repos/remix/partridge/commits{/sha}",
+        "git_commits_url": "https://api.github.com/repos/remix/partridge/git/commits{/sha}",
+        "comments_url": "https://api.github.com/repos/remix/partridge/comments{/number}",
+        "issue_comment_url": "https://api.github.com/repos/remix/partridge/issues/comments{/number}",
+        "contents_url": "https://api.github.com/repos/remix/partridge/contents/{+path}",
+        "compare_url": "https://api.github.com/repos/remix/partridge/compare/{base}...{head}",
+        "merges_url": "https://api.github.com/repos/remix/partridge/merges",
+        "archive_url": "https://api.github.com/repos/remix/partridge/{archive_format}{/ref}",
+        "downloads_url": "https://api.github.com/repos/remix/partridge/downloads",
+        "issues_url": "https://api.github.com/repos/remix/partridge/issues{/number}",
+        "pulls_url": "https://api.github.com/repos/remix/partridge/pulls{/number}",
+        "milestones_url": "https://api.github.com/repos/remix/partridge/milestones{/number}",
+        "notifications_url": "https://api.github.com/repos/remix/partridge/notifications{?since,all,participating}",
+        "labels_url": "https://api.github.com/repos/remix/partridge/labels{/name}",
+        "releases_url": "https://api.github.com/repos/remix/partridge/releases{/id}",
+        "deployments_url": "https://api.github.com/repos/remix/partridge/deployments"
+      },
+      "score": 14.434367
+    },
+    {
       "url": "https://api.github.com/repos/benoitc/gunicorn/commits/953bb9e8d8449bc3951ee382684fc20e13bfa507",
       "sha": "953bb9e8d8449bc3951ee382684fc20e13bfa507",
       "html_url": "https://github.com/benoitc/gunicorn/commit/953bb9e8d8449bc3951ee382684fc20e13bfa507",
@@ -141,279 +413,7 @@
         "releases_url": "https://api.github.com/repos/benoitc/gunicorn/releases{/id}",
         "deployments_url": "https://api.github.com/repos/benoitc/gunicorn/deployments"
       },
-      "score": 14.433493
-    },
-    {
-      "url": "https://api.github.com/repos/benoitc/gunicorn/commits/cb2f47183153368b70b9c06d14e43a4bf6ac7d92",
-      "sha": "cb2f47183153368b70b9c06d14e43a4bf6ac7d92",
-      "html_url": "https://github.com/benoitc/gunicorn/commit/cb2f47183153368b70b9c06d14e43a4bf6ac7d92",
-      "comments_url": "https://api.github.com/repos/benoitc/gunicorn/commits/cb2f47183153368b70b9c06d14e43a4bf6ac7d92/comments",
-      "commit": {
-        "url": "https://api.github.com/repos/benoitc/gunicorn/git/commits/cb2f47183153368b70b9c06d14e43a4bf6ac7d92",
-        "author": {
-          "date": "2017-12-09T19:19:40.000-08:00",
-          "name": "Randall Leeds",
-          "email": "randall@bleeds.info"
-        },
-        "committer": {
-          "date": "2017-12-10T11:57:32.000-08:00",
-          "name": "Randall Leeds",
-          "email": "randall@bleeds.info"
-        },
-        "message": "Remove superfluous BytesIO allocation",
-        "tree": {
-          "url": "https://api.github.com/repos/benoitc/gunicorn/git/trees/e1f7bfa4468609983b57504a36c9e3f0d2c9489d",
-          "sha": "e1f7bfa4468609983b57504a36c9e3f0d2c9489d"
-        },
-        "comment_count": 0
-      },
-      "author": {
-        "login": "tilgovi",
-        "id": 20818,
-        "avatar_url": "https://avatars3.githubusercontent.com/u/20818?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/tilgovi",
-        "html_url": "https://github.com/tilgovi",
-        "followers_url": "https://api.github.com/users/tilgovi/followers",
-        "following_url": "https://api.github.com/users/tilgovi/following{/other_user}",
-        "gists_url": "https://api.github.com/users/tilgovi/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/tilgovi/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/tilgovi/subscriptions",
-        "organizations_url": "https://api.github.com/users/tilgovi/orgs",
-        "repos_url": "https://api.github.com/users/tilgovi/repos",
-        "events_url": "https://api.github.com/users/tilgovi/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/tilgovi/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "committer": {
-        "login": "tilgovi",
-        "id": 20818,
-        "avatar_url": "https://avatars3.githubusercontent.com/u/20818?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/tilgovi",
-        "html_url": "https://github.com/tilgovi",
-        "followers_url": "https://api.github.com/users/tilgovi/followers",
-        "following_url": "https://api.github.com/users/tilgovi/following{/other_user}",
-        "gists_url": "https://api.github.com/users/tilgovi/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/tilgovi/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/tilgovi/subscriptions",
-        "organizations_url": "https://api.github.com/users/tilgovi/orgs",
-        "repos_url": "https://api.github.com/users/tilgovi/repos",
-        "events_url": "https://api.github.com/users/tilgovi/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/tilgovi/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "parents": [
-        {
-          "url": "https://api.github.com/repos/benoitc/gunicorn/commits/ad44552a03f55c0329296963916cbef9d35ffe4f",
-          "html_url": "https://github.com/benoitc/gunicorn/commit/ad44552a03f55c0329296963916cbef9d35ffe4f",
-          "sha": "ad44552a03f55c0329296963916cbef9d35ffe4f"
-        }
-      ],
-      "repository": {
-        "id": 390510,
-        "name": "gunicorn",
-        "full_name": "benoitc/gunicorn",
-        "owner": {
-          "login": "benoitc",
-          "id": 14498,
-          "avatar_url": "https://avatars1.githubusercontent.com/u/14498?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/benoitc",
-          "html_url": "https://github.com/benoitc",
-          "followers_url": "https://api.github.com/users/benoitc/followers",
-          "following_url": "https://api.github.com/users/benoitc/following{/other_user}",
-          "gists_url": "https://api.github.com/users/benoitc/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/benoitc/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/benoitc/subscriptions",
-          "organizations_url": "https://api.github.com/users/benoitc/orgs",
-          "repos_url": "https://api.github.com/users/benoitc/repos",
-          "events_url": "https://api.github.com/users/benoitc/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/benoitc/received_events",
-          "type": "User",
-          "site_admin": false
-        },
-        "private": false,
-        "html_url": "https://github.com/benoitc/gunicorn",
-        "description": "gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.",
-        "fork": false,
-        "url": "https://api.github.com/repos/benoitc/gunicorn",
-        "forks_url": "https://api.github.com/repos/benoitc/gunicorn/forks",
-        "keys_url": "https://api.github.com/repos/benoitc/gunicorn/keys{/key_id}",
-        "collaborators_url": "https://api.github.com/repos/benoitc/gunicorn/collaborators{/collaborator}",
-        "teams_url": "https://api.github.com/repos/benoitc/gunicorn/teams",
-        "hooks_url": "https://api.github.com/repos/benoitc/gunicorn/hooks",
-        "issue_events_url": "https://api.github.com/repos/benoitc/gunicorn/issues/events{/number}",
-        "events_url": "https://api.github.com/repos/benoitc/gunicorn/events",
-        "assignees_url": "https://api.github.com/repos/benoitc/gunicorn/assignees{/user}",
-        "branches_url": "https://api.github.com/repos/benoitc/gunicorn/branches{/branch}",
-        "tags_url": "https://api.github.com/repos/benoitc/gunicorn/tags",
-        "blobs_url": "https://api.github.com/repos/benoitc/gunicorn/git/blobs{/sha}",
-        "git_tags_url": "https://api.github.com/repos/benoitc/gunicorn/git/tags{/sha}",
-        "git_refs_url": "https://api.github.com/repos/benoitc/gunicorn/git/refs{/sha}",
-        "trees_url": "https://api.github.com/repos/benoitc/gunicorn/git/trees{/sha}",
-        "statuses_url": "https://api.github.com/repos/benoitc/gunicorn/statuses/{sha}",
-        "languages_url": "https://api.github.com/repos/benoitc/gunicorn/languages",
-        "stargazers_url": "https://api.github.com/repos/benoitc/gunicorn/stargazers",
-        "contributors_url": "https://api.github.com/repos/benoitc/gunicorn/contributors",
-        "subscribers_url": "https://api.github.com/repos/benoitc/gunicorn/subscribers",
-        "subscription_url": "https://api.github.com/repos/benoitc/gunicorn/subscription",
-        "commits_url": "https://api.github.com/repos/benoitc/gunicorn/commits{/sha}",
-        "git_commits_url": "https://api.github.com/repos/benoitc/gunicorn/git/commits{/sha}",
-        "comments_url": "https://api.github.com/repos/benoitc/gunicorn/comments{/number}",
-        "issue_comment_url": "https://api.github.com/repos/benoitc/gunicorn/issues/comments{/number}",
-        "contents_url": "https://api.github.com/repos/benoitc/gunicorn/contents/{+path}",
-        "compare_url": "https://api.github.com/repos/benoitc/gunicorn/compare/{base}...{head}",
-        "merges_url": "https://api.github.com/repos/benoitc/gunicorn/merges",
-        "archive_url": "https://api.github.com/repos/benoitc/gunicorn/{archive_format}{/ref}",
-        "downloads_url": "https://api.github.com/repos/benoitc/gunicorn/downloads",
-        "issues_url": "https://api.github.com/repos/benoitc/gunicorn/issues{/number}",
-        "pulls_url": "https://api.github.com/repos/benoitc/gunicorn/pulls{/number}",
-        "milestones_url": "https://api.github.com/repos/benoitc/gunicorn/milestones{/number}",
-        "notifications_url": "https://api.github.com/repos/benoitc/gunicorn/notifications{?since,all,participating}",
-        "labels_url": "https://api.github.com/repos/benoitc/gunicorn/labels{/name}",
-        "releases_url": "https://api.github.com/repos/benoitc/gunicorn/releases{/id}",
-        "deployments_url": "https://api.github.com/repos/benoitc/gunicorn/deployments"
-      },
-      "score": 14.433493
-    },
-    {
-      "url": "https://api.github.com/repos/remix/partridge/commits/69d8fe265b1aa19038c28622b10152768b47bb6b",
-      "sha": "69d8fe265b1aa19038c28622b10152768b47bb6b",
-      "html_url": "https://github.com/remix/partridge/commit/69d8fe265b1aa19038c28622b10152768b47bb6b",
-      "comments_url": "https://api.github.com/repos/remix/partridge/commits/69d8fe265b1aa19038c28622b10152768b47bb6b/comments",
-      "commit": {
-        "url": "https://api.github.com/repos/remix/partridge/git/commits/69d8fe265b1aa19038c28622b10152768b47bb6b",
-        "author": {
-          "date": "2017-12-15T17:34:39.000-08:00",
-          "name": "Randall Leeds",
-          "email": "randall@remix.com"
-        },
-        "committer": {
-          "date": "2017-12-15T17:35:28.000-08:00",
-          "name": "Randall Leeds",
-          "email": "randall@remix.com"
-        },
-        "message": "Use consistent RST section delimiters",
-        "tree": {
-          "url": "https://api.github.com/repos/remix/partridge/git/trees/f769f23250cc9020dcdad0d7d672ab8ea71b58a7",
-          "sha": "f769f23250cc9020dcdad0d7d672ab8ea71b58a7"
-        },
-        "comment_count": 0
-      },
-      "author": {
-        "login": "tilgovi",
-        "id": 20818,
-        "avatar_url": "https://avatars3.githubusercontent.com/u/20818?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/tilgovi",
-        "html_url": "https://github.com/tilgovi",
-        "followers_url": "https://api.github.com/users/tilgovi/followers",
-        "following_url": "https://api.github.com/users/tilgovi/following{/other_user}",
-        "gists_url": "https://api.github.com/users/tilgovi/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/tilgovi/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/tilgovi/subscriptions",
-        "organizations_url": "https://api.github.com/users/tilgovi/orgs",
-        "repos_url": "https://api.github.com/users/tilgovi/repos",
-        "events_url": "https://api.github.com/users/tilgovi/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/tilgovi/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "committer": {
-        "login": "tilgovi",
-        "id": 20818,
-        "avatar_url": "https://avatars3.githubusercontent.com/u/20818?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/tilgovi",
-        "html_url": "https://github.com/tilgovi",
-        "followers_url": "https://api.github.com/users/tilgovi/followers",
-        "following_url": "https://api.github.com/users/tilgovi/following{/other_user}",
-        "gists_url": "https://api.github.com/users/tilgovi/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/tilgovi/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/tilgovi/subscriptions",
-        "organizations_url": "https://api.github.com/users/tilgovi/orgs",
-        "repos_url": "https://api.github.com/users/tilgovi/repos",
-        "events_url": "https://api.github.com/users/tilgovi/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/tilgovi/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "parents": [
-        {
-          "url": "https://api.github.com/repos/remix/partridge/commits/22e6ed6c1e23e3131fdc8feaaa5f68e9d09c9075",
-          "html_url": "https://github.com/remix/partridge/commit/22e6ed6c1e23e3131fdc8feaaa5f68e9d09c9075",
-          "sha": "22e6ed6c1e23e3131fdc8feaaa5f68e9d09c9075"
-        }
-      ],
-      "repository": {
-        "id": 102028727,
-        "name": "partridge",
-        "full_name": "remix/partridge",
-        "owner": {
-          "login": "remix",
-          "id": 8146335,
-          "avatar_url": "https://avatars0.githubusercontent.com/u/8146335?v=4",
-          "gravatar_id": "",
-          "url": "https://api.github.com/users/remix",
-          "html_url": "https://github.com/remix",
-          "followers_url": "https://api.github.com/users/remix/followers",
-          "following_url": "https://api.github.com/users/remix/following{/other_user}",
-          "gists_url": "https://api.github.com/users/remix/gists{/gist_id}",
-          "starred_url": "https://api.github.com/users/remix/starred{/owner}{/repo}",
-          "subscriptions_url": "https://api.github.com/users/remix/subscriptions",
-          "organizations_url": "https://api.github.com/users/remix/orgs",
-          "repos_url": "https://api.github.com/users/remix/repos",
-          "events_url": "https://api.github.com/users/remix/events{/privacy}",
-          "received_events_url": "https://api.github.com/users/remix/received_events",
-          "type": "Organization",
-          "site_admin": false
-        },
-        "private": false,
-        "html_url": "https://github.com/remix/partridge",
-        "description": "A fast, forgiving GTFS reader built on pandas DataFrames",
-        "fork": false,
-        "url": "https://api.github.com/repos/remix/partridge",
-        "forks_url": "https://api.github.com/repos/remix/partridge/forks",
-        "keys_url": "https://api.github.com/repos/remix/partridge/keys{/key_id}",
-        "collaborators_url": "https://api.github.com/repos/remix/partridge/collaborators{/collaborator}",
-        "teams_url": "https://api.github.com/repos/remix/partridge/teams",
-        "hooks_url": "https://api.github.com/repos/remix/partridge/hooks",
-        "issue_events_url": "https://api.github.com/repos/remix/partridge/issues/events{/number}",
-        "events_url": "https://api.github.com/repos/remix/partridge/events",
-        "assignees_url": "https://api.github.com/repos/remix/partridge/assignees{/user}",
-        "branches_url": "https://api.github.com/repos/remix/partridge/branches{/branch}",
-        "tags_url": "https://api.github.com/repos/remix/partridge/tags",
-        "blobs_url": "https://api.github.com/repos/remix/partridge/git/blobs{/sha}",
-        "git_tags_url": "https://api.github.com/repos/remix/partridge/git/tags{/sha}",
-        "git_refs_url": "https://api.github.com/repos/remix/partridge/git/refs{/sha}",
-        "trees_url": "https://api.github.com/repos/remix/partridge/git/trees{/sha}",
-        "statuses_url": "https://api.github.com/repos/remix/partridge/statuses/{sha}",
-        "languages_url": "https://api.github.com/repos/remix/partridge/languages",
-        "stargazers_url": "https://api.github.com/repos/remix/partridge/stargazers",
-        "contributors_url": "https://api.github.com/repos/remix/partridge/contributors",
-        "subscribers_url": "https://api.github.com/repos/remix/partridge/subscribers",
-        "subscription_url": "https://api.github.com/repos/remix/partridge/subscription",
-        "commits_url": "https://api.github.com/repos/remix/partridge/commits{/sha}",
-        "git_commits_url": "https://api.github.com/repos/remix/partridge/git/commits{/sha}",
-        "comments_url": "https://api.github.com/repos/remix/partridge/comments{/number}",
-        "issue_comment_url": "https://api.github.com/repos/remix/partridge/issues/comments{/number}",
-        "contents_url": "https://api.github.com/repos/remix/partridge/contents/{+path}",
-        "compare_url": "https://api.github.com/repos/remix/partridge/compare/{base}...{head}",
-        "merges_url": "https://api.github.com/repos/remix/partridge/merges",
-        "archive_url": "https://api.github.com/repos/remix/partridge/{archive_format}{/ref}",
-        "downloads_url": "https://api.github.com/repos/remix/partridge/downloads",
-        "issues_url": "https://api.github.com/repos/remix/partridge/issues{/number}",
-        "pulls_url": "https://api.github.com/repos/remix/partridge/pulls{/number}",
-        "milestones_url": "https://api.github.com/repos/remix/partridge/milestones{/number}",
-        "notifications_url": "https://api.github.com/repos/remix/partridge/notifications{?since,all,participating}",
-        "labels_url": "https://api.github.com/repos/remix/partridge/labels{/name}",
-        "releases_url": "https://api.github.com/repos/remix/partridge/releases{/id}",
-        "deployments_url": "https://api.github.com/repos/remix/partridge/deployments"
-      },
-      "score": 14.433493
+      "score": 14.434367
     },
     {
       "url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/commits/5e9399a247c44ab984263ac2d37d90243e968f36",
@@ -543,7 +543,7 @@
         "releases_url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/releases{/id}",
         "deployments_url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/deployments"
       },
-      "score": 13.828524
+      "score": 13.830216
     },
     {
       "url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/commits/1a0563d53fdae7e68dc7798b527be6ecb2bc1bef",
@@ -679,7 +679,7 @@
         "releases_url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/releases{/id}",
         "deployments_url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/deployments"
       },
-      "score": 13.828524
+      "score": 13.830216
     },
     {
       "url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/commits/6de2ce8a97cfccd093d6695f7c8d7c449f614ba7",
@@ -815,7 +815,7 @@
         "releases_url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/releases{/id}",
         "deployments_url": "https://api.github.com/repos/tilgovi/esm-babel-nyc-test/deployments"
       },
-      "score": 13.828524
+      "score": 13.830216
     },
     {
       "url": "https://api.github.com/repos/apache/incubator-annotator/commits/172d990eecec7e8b4d1156e3190cf80b13d15e98",
@@ -951,7 +951,7 @@
         "releases_url": "https://api.github.com/repos/apache/incubator-annotator/releases{/id}",
         "deployments_url": "https://api.github.com/repos/apache/incubator-annotator/deployments"
       },
-      "score": 12.843376
+      "score": 12.841824
     },
     {
       "url": "https://api.github.com/repos/apache/incubator-annotator/commits/bf996dc9c59a0724bbd2ce3d8903138fd8119acd",
@@ -1087,7 +1087,7 @@
         "releases_url": "https://api.github.com/repos/apache/incubator-annotator/releases{/id}",
         "deployments_url": "https://api.github.com/repos/apache/incubator-annotator/deployments"
       },
-      "score": 12.843376
+      "score": 12.841824
     },
     {
       "url": "https://api.github.com/repos/apache/incubator-annotator/commits/b65e924cbaff9956649f8c9f4276a33135b733aa",
@@ -1223,7 +1223,7 @@
         "releases_url": "https://api.github.com/repos/apache/incubator-annotator/releases{/id}",
         "deployments_url": "https://api.github.com/repos/apache/incubator-annotator/deployments"
       },
-      "score": 12.843376
+      "score": 12.841824
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/a1f51b99c4bc085b3712f4b34d4eebeaef1410e8",
@@ -1359,7 +1359,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 12.239642
+      "score": 12.239207
     },
     {
       "url": "https://api.github.com/repos/eastbaydsa/handbook/commits/07861454c5c71c0a485ef83010b13aff01f25610",
@@ -1495,7 +1495,7 @@
         "releases_url": "https://api.github.com/repos/eastbaydsa/handbook/releases{/id}",
         "deployments_url": "https://api.github.com/repos/eastbaydsa/handbook/deployments"
       },
-      "score": 12.136424
+      "score": 12.139231
     }
   ]
 }
