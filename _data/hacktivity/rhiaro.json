@@ -1,6 +1,6 @@
 {
   "total_count": 86,
-  "incomplete_results": false,
+  "incomplete_results": true,
   "items": [
     {
       "url": "https://api.github.com/repos/alephdata/exactitude/commits/f906f1de311549c8caa64bb9b2153e02710cfe3f",
@@ -136,7 +136,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/exactitude/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/exactitude/deployments"
       },
-      "score": 17.312206
+      "score": 17.313753
     },
     {
       "url": "https://api.github.com/repos/alephdata/exactitude/commits/c0f256ccc938be6de1e674536086f04cd7719142",
@@ -272,7 +272,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/exactitude/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/exactitude/deployments"
       },
-      "score": 17.312206
+      "score": 17.313753
     },
     {
       "url": "https://api.github.com/repos/alephdata/exactitude/commits/14055277c5cc967fdda26fe270884bd617f0a7dd",
@@ -408,7 +408,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/exactitude/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/exactitude/deployments"
       },
-      "score": 17.312206
+      "score": 17.313753
     },
     {
       "url": "https://api.github.com/repos/alephdata/exactitude/commits/1dd7f67de59026da8925c4534eedc7a7208a9270",
@@ -544,7 +544,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/exactitude/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/exactitude/deployments"
       },
-      "score": 17.312206
+      "score": 17.313753
     },
     {
       "url": "https://api.github.com/repos/alephdata/aleph/commits/329eb0ae0ab36dc0ec03716cb3f71c719a4c3f3b",
@@ -680,7 +680,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/aleph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/aleph/deployments"
       },
-      "score": 16.420029
+      "score": 16.420979
     },
     {
       "url": "https://api.github.com/repos/alephdata/aleph/commits/0cdd27934be00b11514eb5c6bf11a91953a470cd",
@@ -816,7 +816,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/aleph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/aleph/deployments"
       },
-      "score": 16.420029
+      "score": 16.420979
     },
     {
       "url": "https://api.github.com/repos/alephdata/aleph/commits/de7669afeb6a2188f055dd3dac7214d59fe37ae0",
@@ -952,7 +952,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/aleph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/aleph/deployments"
       },
-      "score": 16.420029
+      "score": 16.420979
     },
     {
       "url": "https://api.github.com/repos/alephdata/aleph/commits/da6bf2a55164b821c3a6a05ef8f848be82088783",
@@ -1088,7 +1088,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/aleph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/aleph/deployments"
       },
-      "score": 16.420029
+      "score": 16.420979
     },
     {
       "url": "https://api.github.com/repos/alephdata/aleph/commits/3a836aff4dbf0b8371846b34a8673476fc37c84c",
@@ -1224,7 +1224,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/aleph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/aleph/deployments"
       },
-      "score": 16.420029
+      "score": 16.420979
     },
     {
       "url": "https://api.github.com/repos/alephdata/aleph/commits/00d2051cfa833c6237f956f758c745bf8078230f",
@@ -1360,7 +1360,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/aleph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/aleph/deployments"
       },
-      "score": 16.420029
+      "score": 16.420979
     },
     {
       "url": "https://api.github.com/repos/alephdata/aleph/commits/b18a61665c6206e684e6a9c4fe85e23c37e76610",
@@ -1496,7 +1496,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/aleph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/aleph/deployments"
       },
-      "score": 16.420029
+      "score": 16.420979
     },
     {
       "url": "https://api.github.com/repos/alephdata/aleph/commits/655628311260dc0b9f09e9fbe9c92ed76f96be10",
@@ -1632,7 +1632,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/aleph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/aleph/deployments"
       },
-      "score": 16.420029
+      "score": 16.420979
     },
     {
       "url": "https://api.github.com/repos/alephdata/aleph/commits/abd428583d73d7c34025ab28428922473de219d3",
@@ -1768,7 +1768,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/aleph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/aleph/deployments"
       },
-      "score": 16.420029
+      "score": 16.420979
     },
     {
       "url": "https://api.github.com/repos/alephdata/aleph/commits/a9a7e6145814ebb2865ba4e25c10e417c0400f15",
@@ -1904,7 +1904,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/aleph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/aleph/deployments"
       },
-      "score": 16.420029
+      "score": 16.420979
     },
     {
       "url": "https://api.github.com/repos/alephdata/aleph/commits/d16e062d382c9f595c800dc4716a7364087efbe0",
@@ -2040,7 +2040,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/aleph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/aleph/deployments"
       },
-      "score": 16.420029
+      "score": 16.420979
     },
     {
       "url": "https://api.github.com/repos/alephdata/aleph/commits/dbf946bef3d3fab6a5eb45f0194b6ce94313412c",
@@ -2176,7 +2176,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/aleph/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/aleph/deployments"
       },
-      "score": 16.420029
+      "score": 16.420979
     },
     {
       "url": "https://api.github.com/repos/rhiaro/probe/commits/e04161fc3d331d3f88e25ba48db54f4ce93f7086",
@@ -2306,7 +2306,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/probe/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/probe/deployments"
       },
-      "score": 16.420029
+      "score": 16.420979
     },
     {
       "url": "https://api.github.com/repos/rhiaro/probe/commits/5ce290ef13e28ba7d3e898bbe18b9a2c6a9f5c3f",
@@ -2442,7 +2442,7 @@
         "releases_url": "https://api.github.com/repos/rhiaro/probe/releases{/id}",
         "deployments_url": "https://api.github.com/repos/rhiaro/probe/deployments"
       },
-      "score": 16.420029
+      "score": 16.420979
     },
     {
       "url": "https://api.github.com/repos/alephdata/memorious/commits/d936dd4117f189c6926b6da209bf63144d5d3c7d",
@@ -2578,7 +2578,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.127693
+      "score": 16.131422
     },
     {
       "url": "https://api.github.com/repos/alephdata/memorious/commits/9b125deacacce9d4233417391d6e9bcb97c9d905",
@@ -2714,7 +2714,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.127693
+      "score": 16.131422
     },
     {
       "url": "https://api.github.com/repos/alephdata/memorious/commits/68d3e3bc8e07c8b5044c96670c90f8232b60301e",
@@ -2850,7 +2850,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.127693
+      "score": 16.131422
     },
     {
       "url": "https://api.github.com/repos/alephdata/memorious/commits/159f556c00b400ef2c1a99f2840fbfd77161c6c5",
@@ -2986,7 +2986,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.127693
+      "score": 16.131422
     },
     {
       "url": "https://api.github.com/repos/alephdata/memorious/commits/aa51cd7982e17eacca83ad52d492ae2c4a5d71c2",
@@ -3122,7 +3122,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.127693
+      "score": 16.131422
     },
     {
       "url": "https://api.github.com/repos/alephdata/memorious/commits/b06bf57cfdf77c70f39efd6216b6c08e379b5939",
@@ -3258,7 +3258,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.127693
+      "score": 16.131422
     },
     {
       "url": "https://api.github.com/repos/alephdata/memorious/commits/127074d898c055c7fc833530f2f35b55ee3dd265",
@@ -3394,7 +3394,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.127693
+      "score": 16.131422
     },
     {
       "url": "https://api.github.com/repos/alephdata/memorious/commits/71ce4bce7d2d41e9262d0828620e6c893726da4a",
@@ -3530,7 +3530,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.127693
+      "score": 16.131422
     },
     {
       "url": "https://api.github.com/repos/alephdata/memorious/commits/b8640e54140c5543d7d5ed154febfa84b0ef3612",
@@ -3666,7 +3666,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.127693
+      "score": 16.131422
     },
     {
       "url": "https://api.github.com/repos/alephdata/memorious/commits/295ae89a85cb96b71304ec49e9d55190b7112779",
@@ -3802,7 +3802,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.127693
+      "score": 16.131422
     },
     {
       "url": "https://api.github.com/repos/alephdata/memorious/commits/24d72cca18bad42e395e3d002e729e4d726db17a",
@@ -3938,7 +3938,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.127693
+      "score": 16.131422
     },
     {
       "url": "https://api.github.com/repos/alephdata/memorious/commits/45f2bb8136f0ecbd9c8050ad0ce09d4ce38943d5",
@@ -4074,7 +4074,7 @@
         "releases_url": "https://api.github.com/repos/alephdata/memorious/releases{/id}",
         "deployments_url": "https://api.github.com/repos/alephdata/memorious/deployments"
       },
-      "score": 16.127693
+      "score": 16.131422
     }
   ]
 }
