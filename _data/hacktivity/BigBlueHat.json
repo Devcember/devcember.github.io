@@ -1,6 +1,6 @@
 {
   "total_count": 176,
-  "incomplete_results": true,
+  "incomplete_results": false,
   "items": [
     {
       "url": "https://api.github.com/repos/dauwhe/html-first/commits/df9f1be1da0f61586ecc8c6b1bbdff493899670e",
@@ -136,7 +136,7 @@
         "releases_url": "https://api.github.com/repos/dauwhe/html-first/releases{/id}",
         "deployments_url": "https://api.github.com/repos/dauwhe/html-first/deployments"
       },
-      "score": 15.5259075
+      "score": 15.526502
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/ac863a7322cfd4226ae56c1d6c65d883e6be2aff",
@@ -272,7 +272,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/e157378547c35692df10ceda8fa3babb7ec7ea38",
@@ -408,7 +408,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/2d1e410486f7a41e5d7735a558c47cef25075f2b",
@@ -544,7 +544,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/fb5289deab07e3ad9f6225152149faaffe6d699f",
@@ -680,7 +680,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/9932277e91afdb6cf22473aa35f82d0a1ccf6527",
@@ -816,7 +816,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/39062a9577ce80fd6c04f0f98bb0a6f3a2a5bf8e",
@@ -952,7 +952,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/1dd19d86dbeeccfd94b65065592646aeb259423b",
@@ -1088,7 +1088,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/de4344ab6f7fb735cd0c70ef5430a48ab50a2ddd",
@@ -1224,7 +1224,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/c9efda959f1a6881dc7806e942377f0a3404e657",
@@ -1360,7 +1360,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/6b6c1f5f16cbe633ab2c85db852b3a16954eea6b",
@@ -1496,7 +1496,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/5c50f17752f53e2ec050cc30e20d1152ee250411",
@@ -1632,7 +1632,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/94bcd393839df64e25d560ed7c51f51614542359",
@@ -1768,7 +1768,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/a9f1b40760cbeeb7d2701b2477ae1a3c535dfe18",
@@ -1904,7 +1904,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/0c30cd54ebbecae4d2664fd01c9c77a6da3b82f7",
@@ -2040,7 +2040,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/caa8ed1b5f0005dc76ebe805b9675f5765543977",
@@ -2176,7 +2176,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/ff8730c9432fb2461208bb47c0eeccc02de81823",
@@ -2312,7 +2312,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/ac15b36630831369b6d02e065b933eb59febbe14",
@@ -2448,7 +2448,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/5d01af9c4cf58f4a83adbccf4ed2d81f888c08a3",
@@ -2584,7 +2584,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/191db1b31979c04de0774fd4ff79810fa5bd5481",
@@ -2720,7 +2720,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/a1b72caa0c7becba2156dfa2e064c5d3c4bf0a8a",
@@ -2856,7 +2856,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/1e6c4678cf92021cd98d8394bd1d0ebe191d8d32",
@@ -2992,7 +2992,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/e451ea444efdab65636c96304d5a7347db2582b2",
@@ -3128,7 +3128,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/c2e28de99ca5774d12cee7c7766b3a6e49d628fc",
@@ -3264,7 +3264,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/0fa73d6afc6a19b1203c3625529eaf3a6d745681",
@@ -3400,7 +3400,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/40cec379c8ac864159a403a302883c25efdc4300",
@@ -3536,7 +3536,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/e391c84ab793875a36b0aaf30c28c631fa201396",
@@ -3672,7 +3672,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/1fd3db352105509a4e5fd9ad3323a5deef2eebad",
@@ -3808,7 +3808,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/b07a0d0551203427a7397e5f98bcc86eba0528d6",
@@ -3944,7 +3944,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     },
     {
       "url": "https://api.github.com/repos/Devcember/devcember.github.io/commits/d3b6d52e9ae47947fea7b7e1fc6977e62f9c5a0f",
@@ -4080,7 +4080,7 @@
         "releases_url": "https://api.github.com/repos/Devcember/devcember.github.io/releases{/id}",
         "deployments_url": "https://api.github.com/repos/Devcember/devcember.github.io/deployments"
       },
-      "score": 14.472944
+      "score": 14.474942
     }
   ]
 }
