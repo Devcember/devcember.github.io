@@ -7,11 +7,13 @@
   },
   "main": "index.js",
   "dependencies": {
+    "node-fetch": "^1.7.3"
+  },
+  "devDependencies": {
     "gulp": "^3.9.1",
-    "node-fetch": "^1.7.3",
+    "gulp-clone": "^2.0.1",
     "semantic-ui": "^2.2.13"
   },
-  "devDependencies": {},
   "scripts": {
     "build": "cd lib/semantic/ && gulp build",
     "serve": "bundle exec jekyll serve --incremental",
